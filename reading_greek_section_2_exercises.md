@@ -53,21 +53,18 @@ case and number to make them agree:
 7.  τοῖς - ναύταις, νεανίαις
 8.  ὁ - ναύτης, νεανίας
 9.  τήν - βοήν, ἀπορίαν, θάλατταν
-10. τῷ - θαλάττῃ, ναύτῃ
-
-questions:
-1. what is the inverted circumflex on "θάλαττα, ἡ, 'sea' (1c)" on page 47 of G&E?
+10. τῷ - θαλάττῃ, ναύτῃ (not θαλάττῃ, yes νεανίᾳ)
 
 ## 2A-D: 4
 
 Change s. to pl. and vice-versa:
 
-1. τὴν βοήν - τάς βοίς
+1. τὴν βοήν - τάς βοάς
 2. τοῖς ναύταις - τῷ ναύτῃ
 3. αἱ τόλμαι - ἠ τόλμα
 4. τῆς ἀπορίας - τῶν ἀπορίῶν
 5. ὁ ναύτης - οἱ ναύται
-6. ταῖς βοαῖς - τῃ βοῶν
+6. ταῖς βοαῖς - τῃ βοῇ
 7. τὰς τόλμας - τήν τόλμαν
 8. τοὺς νεανίας - τόν νεανίαν
 
@@ -82,20 +79,20 @@ Change s. to pl. and vice-versa:
 7.  ἐπὶ τοὺς πολεμίους - against the wars
 8.  διὰ τὴν ναυμαχίαν - because of naval battles
 9.  διὰ τὴν ἀπορίαν - because of confusion
-10. ἐκ τῶν στρατιῶν - from the soldiers
+10. ἐκ τῶν στρατιῶν - from the soldiers (armies)
 11. παρὰ τὸν ἄνθρωπον - alongside the man
 12. ἀπὸ τῶν Ἀθηναίων - from the Athenians
 
 ## 2A-D: 6
 
 1.  Because of the shouts - δὶα τάς βοάς
-2.  Out of the boats - ἐκ τοῦ πλοῖου
+2.  Out of the boats - ἐκ τοῦ πλοῖου (wrong u->n)
 3.  Alongside the friends - παρὰ τοὺς φίλους
-4.  At the army - ἐπί τοὺς στρατιοῦς
-5.  Because of freedom - διὰ ἐλευθερίον
-6.  Alongside the goddesses - παρὰ τήν θεάν
-7.  Because of the agreements - διὰ τήν ὁμόνοιαν
-8.  Away from the enemy - ἐκ τούς πολέμιους
+4.  At the army - ἐπί τοὺς στρατιοῦς (wrong s->n, στρατόν)
+5.  Because of freedom - διὰ ἐλευθερίον (wrong n->s))
+6.  Alongside the goddesses - παρὰ τήν θεάν (wrong n->s)
+7.  Because of the agreements - διὰ τήν ὁμόνοιαν (wrong n->s)
+8.  Away from the enemy - ἐκ τούς πολέμιους (wrong s->n)
 9.  At the men - ἐπὶ τοὺς ἀνθρώπους
 10. Because of the victory - διὰ τήν νίκην
 
