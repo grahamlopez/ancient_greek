@@ -6,16 +6,19 @@
 
         m.    f.    n.
 
-nom     ὁ     ἡ     τό        καλ-ός    καλ-ή     καλ-όν 
-acc     τόν   τήν   τό        καλ-όν    καλ-ήν    καλ-όν 
-gen     τοῦ   τῆς   τοῦ       καλ-οῦ    καλ-ῆς    καλ-οῦ 
-dat     τῷ    τῇ    τῷ        καλ-ῷ     καλ-ῇ     καλ-ῷ  
-voc     ῶ                     καλ-έ
+nom     ὁ     ἡ     τό
+acc     τόν   τήν   τό
+gen     τοῦ   τῆς   τοῦ
+dat     τῷ    τῇ    τῷ
+voc     ῶ
 
-nom     οἱ    αἱ    τά        καλ-οί    καλ-αί    καλ-ά  
-acc     τούς  τάς   τά        καλ-ούς   καλ-άς    καλ-ά  
-gen     τῶν   τῶν   τῶν       καλ-ῶν    καλ-ῶν    καλ-ῶν 
-dat     τοῖς  ταῖς  τοῖς      καλ-οῖς   καλ-αῖς   καλ-οῖς
+nom     οἱ    αἱ    τά
+acc     τούς  τάς   τά
+gen     τῶν   τῶν   τῶν
+dat     τοῖς  ταῖς  τοῖς
+
+
+        m.        f.        n.
 
 nom     καλ-ός    καλ-ή     καλ-όν
 acc     καλ-όν    καλ-ήν    καλ-όν
@@ -28,20 +31,125 @@ acc     καλ-ούς   καλ-άς    καλ-ά
 gen     καλ-ῶν    καλ-ῶν    καλ-ῶν
 dat     καλ-οῖς   καλ-αῖς   καλ-οῖς
 
+### 1st declension - stems in α-
+
+#### Type 1a - (all f.) exactly like f. def. art.
+
+βοή, ἡ, ‘shout’ (1a)
+ 
+      s.      pl.
+Nom.  βο-ή    βο-αί
+Acc.  βο-ήν   βο-άς
+Gen.  βο-ῆς   βο-ῶν
+Dat.  βο-ῇ    βο-αῖς
+
+#### Type 1b - (all f.) replace -η with long -α in singular
+
+ἀπορία, ἡ, ‘perplexity’ (1b)
+ 
+      s.         pl.
+Nom.  ἀπορί-ᾱ    ἀπορί-αι
+Acc.  ἀπορί-ᾱν   ἀπορί-ᾱς
+Gen.  ἀπορί-ᾱς   ἀπορι-ῶν
+Dat.  ἀπορί-ᾱͅ    ἀπορί-αις
+
+#### Type 1c - (all f.) mixed -α and -η in singular
+
+θάλαττᾰ, ἡ, ‘sea’ (1c)
+ 
+      s.         pl.
+Nom.  θάλαττ-ᾰ   θάλαττ-αι
+Acc.  θάλαττ-ᾰν  θαλάττ-ᾱς
+Gen.  θαλάττ-ης  θαλαττ-ῶν
+Dat.  θαλάττ-ῃ   θαλάττ-αις
+
+#### Type 1d - (all m.) masc. but look fem. in singular
+
+ναύτης, ὁ, ‘sailor’ (1d)
+ 
+      s.         pl.
+Nom.  ναύτη-ς    ναῦτ-αι
+Acc.  ναύτ-ην    ναύτ-ᾱς
+Gen.  ναύτ-ου    ναυτ-ῶν
+Dat.  ναύτ-ῃ     ναύτ-αις
+Voc.  ναῦτ-α 
+
+νεᾱνίᾱς, ὁ, ‘young man’ (1d)
+ 
+      s.         pl.
+Nom.  νεανί-ας   νεανί-αι 
+Acc.  νεανί-αν   νεανί-ας
+Gen.  νεανί-ου   νεανι-ῶν
+Dat.  νεανί-ᾳ    νεανί-αις
+Voc.  νεανί-α
+
+### 2nd declension - stems in ο-
+
+endings are similar to definite article and adjectives like καλός
+
+2a - mostly masculine, a few feminines and some which are either
+
+ἄνθρωπος, ὁ ‘man/fellow’ (2a)
+
+      s.           pl.
+Nom.  ἄνθρωπ-ος    ἄνθρωπ-οι
+Acc.  ἄνθρωπ-ον    ἀνθρώπ-ους
+Gen.  ἀνθρώπ-ου    ἀνθρώπ-ων
+Dat.  ἀνθρώπ-ῳ     ἀνθρώπ-οις
+Voc.  ὦ ἄνθρωπ-ε
+
+2b - all neuter
+
+ἔργον, τό ‘task/duty/job/work’ (2b)
+
+      s.           pl.
+Nom.  ἔργ-ον       ἔργ-α
+Acc.  ἔργ-ον       ἔργ-α
+Gen.  ἔργ-ου       ἔργ-ων
+Dat.  ἔργ-ῳ        ἔργ-οις
+
+### third declension - all the rest
+
+ 
+ὁ λιμήν (λιμεν-), ‘harbour’ (3a)
+
+      s.        pl.         
+Nom.  λιμήν     λιμέν-ες    
+Acc.  λιμέν-α   λιμέν-ας    
+Gen.  λιμέν-ος  λιμέν-ων    
+Dat.  λιμέν-ι   λιμέσι(ν)   
+                    ^--λιμέν-σι(ν)
+
+ἡ νύξ (νυκτ-), ‘night’ (3a)
+
+      s.        pl.     
+Nom.  νύξ       νύκτ-ες 
+Acc.  νύκτ-α    νύκτ-ας 
+Gen.  νυκτ-ός   νυκτ-ῶν 
+Dat.  νυκτ-ί    νυξί(ν) 
+                  ^--νυκτ-σί(ν)
+
 ## particles
 
+(first position)
 ἀλλά	but
+καὶ	and, also, even, actually
+
+(postpositive/2nd position)
 δέ	and, but
 γὰρ	for
+γε
+μέν
+οὖν	so, really, therefore
+τε
+
 ἤ	or
-καὶ	and, also
 καὶ δὴ καὶ	and moreover
 καὶ...καὶ	both...and
 οὐ, οὐκ, οὐχ	no, not
 οὐδὲ	and...not
 οὐδὲν	nothing
 οὔκουν	not...therefore
-οὖν	so, really, therefore
 τε...καὶ	both...and
 πότερον...ἢ	whether...or
 
@@ -114,7 +222,86 @@ dat     καλ-οῖς   καλ-αῖς   καλ-οῖς
 
 ## verbs
 
-### irregular verbs
+### -ω thematic verbs conjugation
+
+-ο-   -ο-
+-ε-   -ε-
+-ε-   -ο-
+
+βαίν- ω       Βαίν- ομεν
+βαίν- εις     βαίν- ετε
+βαίν- ει      βαίν- ουσι(ν)
+
+βαῖνε
+βαίνετε
+
+### contract verbs conjugation
+
+verbs whose stem ends in a vowel: α-contracts (ὁρά-ω)
+                                  ε-contracts (ποιέ-ω)
+                                  ο-contracts (δηλό-ω)
+
+only applies to α-, ε-, ο-. κελεύ-ω, κλαί-ω, etc. are normal/thematic
+
+      α-contrac             ε-contract              ο-contract
+1s.  ὁρά-ω    → ὁρ-ῶ      ποιέ-ω    → ποι-ῶ       δηλό-ω    → δηλ-ῶ
+2s.  ὁρά-εις  → ὁρ-ᾷς     ποιέ-εις  → ποι-εῖς     δηλό-εις  → δηλ-οῖς
+3s.  ὁρά-ει   → ὁρ-ᾷ      ποιέ-ει   → ποι-εῖ      δηλό-ει   → δηλ-οῖ
+1pl. ὁρά-ομεν → ὁρ-ῶμεν   ποιέ-ομεν → ποι-οῦμεν   δηλό-ομεν → δηλ-οῦμεν
+2pl. ὁρά-ετε  → ὁρ-ᾶτε    ποιέ-ετε  → ποι-εῖτε    δηλό-ετε  → δηλ-οῦτε
+3pl. ὁρά-ουσι → ὁρ-ῶσι    ποιέ-ουσι → ποι-οῦσι    δηλό-ουσι → δηλ-οῦσι
+
+     ὅρ-α                 ποί-ει                  δήλ-ου
+     ὁρ-ᾶτε               ποι-εῖτε                δηλ-οῦτε
+
+contraction patterns
+
+1. α + ο/ου/ω = ω  α + ε/ει = α/ᾳ
+2. ε + ω = ω       ε + ε/ει = ει    ε + ο/ου = ου 
+3. ο + ω = ω       ο + ε/ο/ου = ου  ο + ει = οι
+
+compare with thematic:
+      Uncontracted  α-contract  ε-contract  ο-contract
+      βαίν-         ὁρά-        ποιέ-       δηλό-
+
+1s.   βαίν-ω        ὁρ-ῶ        ποι-ῶ       δηλ-ῶ
+2s.   βαίν-εις      ὁρ-ᾷς       ποι-εῖς     δηλ-οῖς
+3s.   βαίν-ει       ὁρ-ᾷ        ποι-εῖ      δηλ-οῖ
+1pl.  βαίν-ομεν     ὁρ-ῶμεν     ποι-οῦμεν   δηλ-οῦμεν
+2pl.  βαίν-ετε      ὁρ-ᾶτε      ποι-εῖτε    δηλ-οῦτε
+3pl.  βαίν-ουσι(ν)  ὁρ-ῶσι(ν)   ποι-οῦσι(ν) δηλ-οῦσι(ν)
+
+### contract verbs vocab list
+
+ἀσεβέ-ω	(εἰς) commit sacrilege upon
+ἀσθενέ-ω	be ill, fall ill
+βοηθέ-ω	run to help (+dat.)
+δηλό-ω	show, reveal
+ἐλευθερό-ω	set free
+ἐξαπατά-ω	deceive, trick
+νοσέ-ω	be sick
+οἰκέ-ω	dwell (in), live
+ὁρά-ω	see
+ποιέ-ω	make, do
+σιγά-ω	be quiet
+τιμά-ω	honor
+
+### irregular verbs conjugation
+
+εἰμί, 'I am'
+
+εἰμί      ἐσμέν
+εἶ        ἐστέ
+ἐστί(ν)   εἰσί(ν)
+
+
+οἶδα, 'I know'
+
+οἶδα      ἴσμεν
+οἶσθα     ἴστε
+οἶδε      ἴσασι(ν)
+
+### irregular verbs vocab list
 
 εἰμι	I am
 εἶ	you (s.) are
@@ -122,7 +309,51 @@ dat     καλ-οῖς   καλ-αῖς   καλ-οῖς
 ἐσμέν	we are
 εἰσιν	they are
 
-### thematic verbs
+### middle verbs conjugation
+
+#### Thematic:
+
+ἔρχομαι, 'I go, am going'
+
+ἔρχ-ομαι    ἔρχ-όμεθα
+ἔρχ-ῃ (ει)  ἔρχ-εσθε
+ἔρχ-εται    ἔρχ-ονται
+
+ἔρχ-ου
+ἔρχ-εσθε
+
+-ο-  -ο-     -μαι  -μεθα
+-ε-  -ε-  +  -σαι  -σθε 
+-ε-  -ο-     -ται  -νται
+
+#### Contract:
+
+θεῶμαι, ‘I watch, am watching’  φοβοῦμαι, ‘I fear, am fearing’  δουλοῦμαι, ‘I enslave (for myself)’
+α + -ομαι   → θε-ῶμαι           ε + -ομαι   → φοβ-οῦμαι         ο + -ομαι   → δουλ-οῦμαι           
+α + -ῃ      → θε-ᾷ              ε + -ῃ      → φοβ-ῇ             ο + -ῃ      → δουλ-οῖ              
+α + -εται   → θε-ᾶται           ε + -εται   → φοβ-εῖται         ο + -εται   → δουλ-οῦται           
+α + -ομεθα  → θε-ώμεθα          ε + -ομεθα  → φοβ-ούμεθα        ο + -ομεθα  → δουλ-ούμεθα          
+α + -εσθε   → θε-ᾶσθε           ε + -εσθε   → φοβ-εῖσθε         ο + -εσθε   → δουλ-οῦσθε           
+α + -ονται  → θε-ῶνται          ε + -ονται  → φοβ-οῦνται        ο + -ονται  → δουλ-οῦνται          
+
+α + -ου   → θε-ῶ                ε + -ου   →  φοβ-οῦ             ο + -ου   → δουλ-οῦ   
+α + -εσθε → θε-ᾶσθε             ε + -εσθε → φοβ-εῖσθε           ο + -εσθε → δουλ-οῦσθε
+
+### middle verbs vocab list
+
+γίγν-ομαι	happen, be made, be born
+δουλό-ομαι	enslave
+ἔρχ-ομαι	go, come
+θεά-ομαι	observe, watch
+μάχ-ομαι	fight
+φοβέ-ομαι	fear, be afraid of
+
+### other verbs vocab list
+
+πλέομεν	we sail
+πλέοθσιν	they sail
+περισκοπῶ	I look around
+πλεῖ	it sails
 
 ἀκούω	I hear
 ἀκούεις	you (s.) hear
@@ -132,7 +363,6 @@ dat     καλ-οῖς   καλ-αῖς   καλ-οῖς
 ἀναβαίνει	he comes up
 ἀναβαίνουσιν	they come up
 ἀπαίδευτ-ος-ον	an ignoramus
-ἀπὸ τοῦ πλοίου	from the ship
 ἀποθνῄσκω	I die
 ἀποθνῄσκομεν	we die
 ἀποθνῄσκοθσιν	they die
@@ -207,13 +437,6 @@ dat     καλ-οῖς   καλ-αῖς   καλ-οῖς
 φεύγουσιν	they flee
 φροντίζετε	worry! (pl.)
 φρόντιζε	worry! (s.)
-
-### contract verbs
-
-πλέομεν	we sail
-πλέοθσιν	they sail
-περισκοπῶ	I look around
-πλεῖ	it sails
 
 ## nouns
 
@@ -296,6 +519,15 @@ dat     καλ-οῖς   καλ-αῖς   καλ-οῖς
 
 ## adverbs
 
+Form from adjectives by taking the genitive masculine plural and 'ν'-->'ς'
+
+Adjective   Gen. masc. pl.  Adverb
+καλ-ός      καλ-ῶν          καλ-ῶς      'finely/beautifully'
+κακ-ός      κακ-ῶν          κακ-ῶς      'badly/evilly'
+σαφ-ής      σαφ-ῶν          σαφ-ῶς      'clearly'
+βαθ-ύς      βαθ-έων         βαθ-έως     'deeply'
+ἀκριβ-ής    ἀκρῑβ-ῶν        ἀκρῑβ-ῶς    'accurately'
+
 ἀεὶ	always
 ἅμα	at the same time
 ἆρα	=question
@@ -311,6 +543,7 @@ dat     καλ-οῖς   καλ-αῖς   καλ-οῖς
 
 ## prepositional phrases
 
+ἀπὸ τοῦ πλοίου	from the ship
 δῆλόν ἐστιν	it is clear
 εἰς τὴν θάλατταν	into the sea
 εἰς τὸν λιμένα	into the harbour
