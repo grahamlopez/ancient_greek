@@ -240,6 +240,28 @@ Dat.  νυκτ-ί    νυξί(ν)
 -ε-   -ε-  +  -ις  -τε
 -ε-   -ο-     -ι   -υσι(ν)
 
+### -ω thematic verbs vocab list
+
+ἀγορεύω	speak in public	thematic
+ἀκούω	I hear	thematic
+ἀναβαίνω	go up	thematic
+ἀπολύω	I release	thematic
+διώκω	I pursue, chase	thematic
+δύω	I sink	thematic
+εἰσβαίνω	embark, go aboard	thematic
+θύω	sacrifice	thematic
+καταβαίνω	go down	thematic
+καταδύω	sink, submerge	thematic
+λαμβάνω	take, seize	thematic
+λέγω	say, speak	thematic irregular
+μένω	stay, remain	thematic
+ὁμηρίζω	quote Homer	thematic
+παίζω	play, joke	thematic
+ῥίπτω	throw	thematic
+σῴζω	save, preserve	thematic
+φροντίζω	think, worry, care for	thematic
+φεύγω	flee	thematic
+
 ### contract verbs conjugation
 
 verbs whose stem ends in a vowel: α-contracts (ὁρά-ω)
@@ -278,18 +300,26 @@ compare with thematic:
 
 ### contract verbs vocab list
 
-ἀσεβέ-ω	(εἰς) commit sacrilege upon
-ἀσθενέ-ω	be ill, fall ill
-βοηθέ-ω	run to help (+dat.)
-δηλό-ω	show, reveal
-ἐλευθερό-ω	set free
-ἐξαπατά-ω	deceive, trick
-νοσέ-ω	be sick
-οἰκέ-ω	dwell (in), live
-ὁρά-ω	see
-ποιέ-ω	make, do
-σιγά-ω	be quiet
-τιμά-ω	honor
+ἀποχωρέ-ω	I go away	ε-contract
+ἀσεβέ-ω	commit sacrilege upon (εἰς + acc.)	ε-contract
+ἀσθενέ-ω	be ill, fall ill	ε-contract
+βοηθέ-ω	run to help (+dat.)	ε-contract
+δηλό-ω	show, reveal	ο-contract
+ἐλευθερό-ω	set free	ο-contract
+ἐξαπατά-ω	deceive, trick	α-contract
+ἐρωτά-ω	ask, inquire	α-contract
+ζητέ-ω	seek, look for	ε-contract
+κυβερνά-ω	steer, pilot	α-contract
+νοσέ-ω	be sick	ε-contract
+οἰκέ-ω	dwell, live (in)	ε-contract
+ὁρά-ω	see	α-contract irregular
+περισκοπέ-ω	look around, examine	ε-contract
+πλέω	sail	ε-contract (some dialectal forms regular)
+ποιέ-ω	make, do	ε-contract
+σιγά-ω	be quiet, silent	α-contract
+σκοπέ-ω	observe, look at closely	ε-contract
+Σωκρατέ-ω	play the part of Socrates	ε-contract
+τιμά-ω	honor	α-contract
 
 ### irregular verbs conjugation
 
@@ -308,11 +338,12 @@ compare with thematic:
 
 ### irregular verbs vocab list
 
-εἰμι	I am
-εἶ	you (s.) are
-ἐστιν	it is
-ἐσμέν	we are
-εἰσιν	they are
+ἀποθνῄσκω	I die	thematic irregular
+βαίνω	I go	thematic irregular
+εἰμί	be, exist	irregular (athematic)
+λέγω	say, speak	thematic irregular
+οἶδα	know (perfect with present meaning)	irregular
+ὁρά-ω	see	α-contract irregular
 
 ### middle verbs conjugation
 
@@ -346,12 +377,12 @@ compare with thematic:
 
 ### middle verbs vocab list
 
-γίγν-ομαι	happen, be made, be born
-δουλό-ομαι	enslave
-ἔρχ-ομαι	go, come
-θεά-ομαι	observe, watch
-μάχ-ομαι	fight
-φοβέ-ομαι	fear, be afraid of
+δουλό-ομαι	enslave	ο-contract middle/deponent
+ἔρχομαι	go, come	middle/deponent irregular
+γίγνομαι	happen, become, be born	middle/deponent
+θεά-ομαι	observe, watch	α-contract middle/deponent
+μάχομαι	fight	middle/deponent
+φοβέ-ομαι	fear, be afraid	ε-contract middle/deponent
 
 ### other verbs vocab list
 
