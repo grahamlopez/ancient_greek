@@ -476,82 +476,52 @@ compare with thematic:
 
 ## nouns
 
-ἁι ὁλκάδες	the merchant ships (nom)
-ἡ άκρόπολις	the Acropolis (nom)
-ἡ ἡμετέρα σωτηρία	[the] our safety (nom)
-ἡ ναῦς	the ship (nom)
-ἡ ῥαψῳδική	the rhapsode's skill (nom)
-θυσίας	sacrifices (nom)
-ναῦτα	sailor (voc s.)
-ναῦται	sailors (voc pl.)
-νὺξ	night (nom)
-ὁ Παρθενών	the Parthenon (nom)
-ὁ Πειραιεύς	the Peiraieus (nom)
-ὁ ἄνθρωπος	the man/human (nom acc)
-ὁ ἡμέτερος λέμβος	[the] our lifeboat (nom)
-ὁ κυβερνήτης	the captian, helmsman (nom)
-ὁ λέμβος	the lifeboat (nom)
-ὁ λιμήν	the harbour	(nom)
-ὁ ναύτης	the sailor
-ὁ ῥαψῳδός	the rhapsode (nom)	literally a “weaver of songs”
-ὁ στρατηγός	the general (nom)
-ὁ ψόφος	the noise (nom)
-οἱ ἄνδρες	the men (nom)
-οἱ ἄνθρωποι	the men/humans (nom)
-οἱ ναῦται	the sailors (nom)
-οἱ φίλοι	the friends (nom)
-πέλεκυν	axe (acc)
-πέλεκυς	axe (nom)
-τὰ ἐμπόρια	the markets (nom/acc pl)
-τά στρατηγικά	generalship
-τά στρατιωτικά	soldiering
-τὰς ὁλκάδας	the merchant ships (acc pl)
-τὴν ἀκρόπολιν	the Acropolis (acc)
-τὴν νύκτα	the night/dark
-τὴν φυγὴν	their flight (acc)
-τῇ θαλάττῃ	the sea (dat)
-τά ναθτικά	the naval matters (nom/acc)
-τὸ ἔργον	the task (nom)
-τὸ νεώριον	the dockyard (acc)
-τὸ ἡμέτερον πλοῖον	[the] our ship
-τὸ πλοῖον	the ship (nom)
-τὸν Παρθενῶνα	the Parthenon (acc)
-τὸν ἄνθρωπον	the man (nom)
-τὸν κυβερνήτην	the captian/helmsman (acc)
-τὸν λέμβον	the lifeboat (acc)
-τὸν λιμένα	the harbour (acc)
-τὸν ψόφον	the noise (acc)
-τοὺς ἀνθρώπους	the men/humans (acc)
-τοὺς μαθητάς	the/his students (acc)
-τοὺς ναύτας	the sailors (acc)
-τῷ πλοίῳ	the ship (dat)
-φίλε	 friend (voc)
-ψόφος	a noise (nom)
-ψόφον	a noise (acc)
+ἡ ἀκρόπολις, -εως	the Acropolis	3
+ὁ ἀνήρ, ἀνδρός	the man	3
+ὁ ἄνθρωπος, -ου	the human, man	2a
+τὰ ἐμπόρια, -ων	the markets	2b
+τὸ ἔργον, -ου	the task	2b
+ἡ θάλαττα, -ης	the sea	1b
+ἡ θυσία, -ας	sacrifice	1a
+ὁ κυβερνήτης, -ου	the captain, helmsman	1d
+ὁ λέμβος, -ου	the lifeboat	2a
+ὁ λιμήν, -ένος	the harbour	3
+ὁ μαθητής, -οῦ	the student	1d
+ἡ ναῦς, νεώς	the ship	3
+ὁ ναύτης, -ου	the sailor	1d
+τὰ ναυτικά, -ῶν	the naval matters	2b
+τὸ νεώριον, -ου	the dockyard	2b
+ἡ νύξ, νυκτός	night	3
+αἱ ὁλκάδες, -ων	the merchant ships	3
+ὁ Παρθενών, -ῶνος	the Parthenon	3
+ὁ Πειραιεύς, -ῶς	the Peiraieus	3
+ὁ πέλεκυς, -εως	axe	3
+τὸ πλοῖον, -ου	the ship	2b
+ὁ ψόφος, -ου	the noise	2a
+ἡ ῥαψῳδική, -ῆς	the rhapsode’s skill	1a
+ὁ ῥαψῳδός, -οῦ	the rhapsode	2a
+ἡ σωτηρία, -ας	our safety	1a
+τὰ στρατηγικά, -ῶν	generalship	2b
+ὁ στρατηγός, -οῦ	the general	2a
+τὰ στρατιωτικά, -ῶν	soldiering	2b
+οἱ φίλοι, -ων	the friends	2a
+ἡ φυγή, -ῆς	flight	1a
 
 ## adjectives/adverbs
 
-ἀγαθός -ή -όν	good
-ἀκριβῶς	closely; in detail; accurately
-ἀληθῆ	the truth (lit. true things - neut pl)
-βεβαία	assured
-ἔμπειρος -ον	experienced, skilled
-θοός -ή -όν	swift
-κακοί	bad
-κακῶς	badly
-καλά	beautiful, fine, good (nom/acc neut pl)
-καλαί	beautiful, good, fine (nom fem pl)
-καλόν	good, beautiful (nom, s, neut)
-καλός	good, beautiful (nom, s, masc)
-καλὴ	good, beautiful (nom, s, fem)
-κοῖλος -η -ον	hollow
-μέλαινα	black (nom.)
-μῶρος -α -ον	stupid
-πολεμικός -ή -όν	of war
-σαφῶς	clearly
-στρατηγικός -ή -όν	of a general
-σῶοι	safe (nom masc sing)
-σῶον	safe (acc masc sing)
+ἀγαθός	good	adv. εὖ
+ἀληθής	true	adv. ἀληθῶς
+βεβαῖος	assured, firm	adv. βεβαίως
+ἔμπειρος	experienced, skilled	adv. ἐμπείρως
+θοός	swift	adv. θοῶς
+κακός	bad	adv. κακῶς
+καλός	beautiful, good, fine	adv. καλῶς
+κοῖλος	hollow	adv. κοιλῶς
+μέλας	black
+μῶρος	stupid, foolish	adv. μωρῶς
+πολεμικός	warlike, of war
+στρατηγικός	of a general
+σῶος	safe, unharmed	adv. σῴως
 
 ## adverbs
 
@@ -564,18 +534,28 @@ Adjective   Gen. masc. pl.  Adverb
 βαθ-ύς      βαθ-έων         βαθ-έως     'deeply'
 ἀκριβ-ής    ἀκρῑβ-ῶν        ἀκρῑβ-ῶς    'accurately'
 
-ἀεὶ	always
+ἀεί	always
+ἀκριβῶς	accurately, precisely	adj. ἀκριβής
 ἅμα	at the same time
-ἆρα	=question
+ἆρα	question particle
 αὖθις	again
+βεβαίως	assuredly	adj. βεβαῖος
 δεῦρο	here, over here
-ἐγγύς	nearby
+ἐγγύς	near, nearby	adj. ἐγγύς or ἐγγύτατος
+ἐμπείρως	skillfully	adj. ἔμπειρος
 ἐξαίφνης	suddenly
-ἤδη	now; already
-ἔπειτα	next, then
+ἔπειτα	then, next
+θοῶς	swiftly	adj. θοός
+ἤδη	now, already
+κακῶς	badly	adj. κακός
+καλῶς	beautifully, well	adj. καλός
+κοιλῶς	hollowly	adj. κοῖλος
+μωρῶς	foolishly	adj. μῶρος
 νῦν	now
+σαφῶς	clearly	adj. σαφής
+σῴως	safely	adj. σῶος
 τέλος	finally
-ὥσπερ	like
+ὥσπερ	like, just as
 
 ## prepositional phrases
 
