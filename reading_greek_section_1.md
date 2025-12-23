@@ -131,95 +131,275 @@ Dat.  νυκτ-ί    νυξί(ν)
 
 ## particles
 
-(first position)
-ἀλλά	but
-καὶ	and, also, even, actually
+### coordinating and connective
 
-(postpositive/2nd position)
-δέ	and, but
-γὰρ	for
-γε
-μέν
-οὖν	so, really, therefore
-τε
-
-ἤ	or
-καὶ δὴ καὶ	and moreover
-καὶ...καὶ	both...and
-οὐ, οὐκ, οὐχ	no, not
-οὐδὲ	and...not
-οὐδὲν	nothing
-οὔκουν	not...therefore
-τε...τε	 both...and
-τε...καὶ	both...and
-πότερον...ἢ	whether...or
-
-## particle phrases
-
-ἤδη γε	yes, already
-δήπου	of course (single word)
-μὰ Δία	by Zeus
-μάλιστα	yes, indeed
-μέντοι	yes indeed
-μὲν...δὲ	on the one hand...on the other hand
+ἀλλά	but	first position
+δέ	and, but	postpositive (2nd position)
+γάρ	for	postpositive (2nd position)
+καί	and, also, even, actually	first position
+καὶ δὴ καί	and moreover
+καίτοι	and yet, although
+μέν	on the one hand	postpositive (2nd position)
+μέν...δέ	on the one hand...on the other hand
 μέν οὖν	no, rather
-μὴ	don't
+μέντοι	yet, however; yes indeed	postpositive (2nd position)
+οὖν	so, really, therefore	postpositive (2nd position)
+τε	and	postpositive (2nd position)
+τε...καί	both...and
+τε...τε	both...and
+τοίνυν	well then, therefore
+τοὐναντίον	on the contrary
+
+### adversative, contrastive, and restrictive
+
+ἀλλά	but	first position
+καίτοι	and yet, although
+μέντοι	yet, however; yes indeed	postpositive (2nd position)
+τοὐναντίον	on the contrary
+
+### affirmative, emphatic, and modal
+
+ἀληθῶς	truly, really	(adj. ἀληθής)
+γέ	indeed, at least	postpositive (2nd position)
+δή	indeed, certainly
+δήπου	of course
+δῆτα	surely, of course
+ἦ	indeed, truly
+ἦ μήν	truly, certainly
+μάλιστα	yes, indeed
+μέντοι	yes indeed	postpositive (2nd position)
 ναί	yes
-οἴμοι	oh dear!
-οὕτως	thus, in this way
+οὐ	not, no	(no counter to ναί)
+οὔκουν	not...therefore
 πῶς γὰρ οὔ	of course (phrase)
-τᾶν	my dear chap (condescendingly)
-ὡς	how!
-οὗτος	hey you!
 
-## questions
+### interrogative, correlative, and indefinite
 
-διὰ	(+acc.) because of
+ἄρα	then, so	(in questions or inference)
+πότερον...ἤ	whether...or
 τί;	what?
-διὰ τί;	why?
-διότι	because
 τί δέ;	what next?
-τί μήν;	so what?; of course
-τί τὸ;	what's this?
-τίς;	what?
+τί μήν;	so what? of course
+τί τό;	what’s this?
+τίς;	who? what?
 ποῖ;	where to?
 ποῦ;	where?
 πόθεν;	from where?
 πῶς;	how?
+διὰ τί;	why?
+
+### negatives
+
+μή	don’t
+οὐ / οὐκ / οὐχ	no, not
+οὐδέ	and not; nor
+οὐδέν	nothing
+### discourse and transitional
+
+ἆρα	so, then (introduces questions or inference)
+οὖν	so, then	postpositive (2nd position)
+τοίνυν	well then, therefore
+γάρ	for	postpositive (2nd position)
+δή	then, indeed (often transitional)
+
+### adverbial and causal
+
+διά (+acc.)	because of
+διότι	because
+ὅτι	that, because
+οὕτως	thus, in this way
+τέλος	finally
+
+### exclamations, oaths, and vocatives
+
+μὰ Δία	by Zeus	oath
+οἴμοι	oh dear!	exclamation
+τᾶν	my dear chap (condescendingly)	Doric idiom
+οὗτος	hey you!	interjectional use
+ὡς	how!	exclamation
 
 ## prepositions
 
-ἄνω	above
-ἀπὸ	from
-εἰς	to, into
-ἐκ	out of, from
-ἐν	in, on
-ἐπὶ	(+acc.) over
-περὶ	(+acc.) about, around, with regard to
-πρὸς	towards
+ἄνω	above, up
+ἀνά (+acc.)	up; along; throughout
+ἀμφί (+gen./dat./acc.)	about; around; concerning
+ἀντί (+gen.)	instead of; in return for
+ἀπό (+gen.)	from; away from
+διά (+gen./acc.)	through; because of
+εἰς (+acc.)	into; to
+ἐκ (+gen.)	out of; from
+ἐν (+dat.)	in; on; among
+ἐπί (+gen./dat./acc.)	on, upon; at, near; over, against
+κατά (+gen./acc.)	down from, against; according to, throughout
+μετά (+gen./acc.)	with; after
+παρά (+gen./dat./acc.)	from (a person); beside; alongside, beyond
+περί (+gen./dat./acc.)	about; around; concerning
+πρός (+gen./dat./acc.)	towards; near, with; against
+σύν (+dat.)	with; together with
+ὑπέρ (+gen./acc.)	over, above; on behalf of, beyond
+ὑπό (+gen./dat./acc.)	under; under, beneath; by (agent)
 
 ## personals and indefinites
 
-ἐγὼ	I
-ἔγωγε	I at least
-ἐμὲ	me
-με	me
-ἐμός -ή -όν	my
-ἐμόν	mine
-ἐμαυτὸν	myself
+### personal pronouns
 
-ἡμεῖς	we
-ἡμᾶς	us
+ἐγώ	I (nom. 1sg.)
+ἐμέ	me (acc. 1sg.)
+ἐμοῦ	my (gen. 1sg.)
+ἐμοί	to me (dat. 1sg.)
+με	me (encl. acc. 1sg.)
+μοι	to me (encl. dat. 1sg.)
+σύ	you (nom. 2sg.)
+σέ	you (acc. 2sg.)
+σοῦ	your (gen. 2sg.)
+σοί	to you (dat. 2sg.)
+σε	you (encl. acc. 2sg.)
+σοι	to you (encl. dat. 2sg.)
+ἡμεῖς	we (nom. 1pl.)
+ἡμᾶς	us (acc. 1pl.)
+ἡμῶν	our (gen. 1pl.)
+ἡμῖν	to us (dat. 1pl.)
+ὑμεῖς	you (nom. 2pl.)
+ὑμᾶς	you (acc. 2pl.)
+ὑμῶν	your (gen. 2pl.)
+ὑμῖν	to you (dat. 2pl.)
 
-σὺ	you (s.)
-ὑμεῖς	you (pl.)
-σεαθτὸν	yourself (s.)
-σοι	to you (s.)
+### possessive adjectives
 
-ἑαυτοὺς	themselves
+ἐμός	my (nom.m.sg.)
+ἐμή	my (nom.f.sg.)
+ἐμόν	my (nom.n.sg.)
+ἐμοῦ	my (gen.m.sg.)
+ἐμῆς	my (gen.f.sg.)
+ἐμοῦ	my (gen.n.sg.)
+ἐμῷ	my (dat.m.sg.)
+ἐμῇ	my (dat.f.sg.)
+ἐμῷ	my (dat.n.sg.)
+ἐμόν	my (acc.m.sg.)
+ἐμήν	my (acc.f.sg.)
+ἐμόν	my (acc.n.sg.)
+σός	your (nom.m.sg.)
+σή	your (nom.f.sg.)
+σόν	your (nom.n.sg.)
+σοῦ	your (gen.m.sg.)
+σῆς	your (gen.f.sg.)
+σοῦ	your (gen.n.sg.)
+σῷ	your (dat.m.sg.)
+σῇ	your (dat.f.sg.)
+σῷ	your (dat.n.sg.)
+σόν	your (acc.m.sg.)
+σήν	your (acc.f.sg.)
+σόν	your (acc.n.sg.)
 
-ὅτι	that
-τι	something
+### reflexive pronouns
+
+ἐμαυτοῦ	myself (gen.sg.)
+ἐμαυτὸν	myself (acc.sg.)
+ἐμαυτῷ	myself (dat.sg.)
+σεαυτοῦ	yourself (gen.2sg.)
+σεαυτόν	yourself (acc.2sg.)
+σεαυτῷ	yourself (dat.2sg.)
+ἑαυτοῦ	himself (gen.3sg.)
+ἑαυτὸν	himself (acc.3sg.)
+ἑαυτῷ	himself (dat.3sg.)
+ἡμῶν ἑαυτῶν	ourselves (gen.pl.)
+ἡμᾶς ἑαυτούς	ourselves (acc.pl.)
+ἡμῖν ἑαυτοῖς	ourselves (dat.pl.)
+ὑμῶν ἑαυτῶν	yourselves (gen.pl.)
+ὑμᾶς ἑαυτούς	yourselves (acc.pl.)
+ὑμῖν ἑαυτοῖς	yourselves (dat.pl.)
+
+### demonstrative pronouns
+
+αὐτός	he (nom.m.sg.)
+αὐτοῦ	of him (gen.m.sg.)
+αὐτῷ	to him (dat.m.sg.)
+αὐτόν	him (acc.m.sg.)
+αὐτή	she (nom.f.sg.)
+αὐτῆς	of her (gen.f.sg.)
+αὐτῇ	to her (dat.f.sg.)
+αὐτήν	her (acc.f.sg.)
+αὐτό	it (nom./acc.n.sg.)
+αὐτοῦ	of it (gen.n.sg.)
+αὐτῷ	to it (dat.n.sg.)
+οὗτος	this one (nom.m.sg.)
+τούτου	of this (gen.m.sg.)
+τούτῳ	to this (dat.m.sg.)
+τοῦτον	this one (acc.m.sg.)
+αὕτη	this one (nom.f.sg.)
+ταύτης	of this (gen.f.sg.)
+ταύτῃ	to this (dat.f.sg.)
+ταύτην	this one (acc.f.sg.)
+τοῦτο	this (nom./acc.n.sg.)
+τούτου	of this (gen.n.sg.)
+τούτῳ	to this (dat.n.sg.)
+ὅδε	this (nom.m.sg.)
+τοῦδε	of this (gen.m.sg.)
+τῷδε	to this (dat.m.sg.)
+τόνδε	this (acc.m.sg.)
+ἥδε	this (nom.f.sg.)
+τῆσδε	of this (gen.f.sg.)
+τῇδε	to this (dat.f.sg.)
+τάνδε	this (acc.f.sg.)
+τόδε	this (nom./acc.n.sg.)
+τοῦδε	of this (gen.n.sg.)
+τῷδε	to this (dat.n.sg.)
+ἐκεῖνος	that one (nom.m.sg.)
+ἐκείνου	of that (gen.m.sg.)
+ἐκείνῳ	to that (dat.m.sg.)
+ἐκεῖνον	that one (acc.m.sg.)
+ἐκείνη	that one (nom.f.sg.)
+ἐκείνης	of that (gen.f.sg.)
+ἐκείνῃ	to that (dat.f.sg.)
+ἐκείνην	that one (acc.f.sg.)
+ἐκεῖνο	that (nom./acc.n.sg.)
+ἐκείνου	of that (gen.n.sg.)
+ἐκείνῳ	to that (dat.n.sg.)
+
+### interrogative pronouns
+
+τίς	who? (nom.m./f.sg.)
+τί	what? (nom./acc.n.sg.)
+τίνος	of whom? (gen.sg.)
+τίνι	to whom? (dat.sg.)
+τίνα	whom? (acc.m.sg.)
+τίνες	who? (nom.pl.)
+τίνων	of whom? (gen.pl.)
+τίσι(ν)	to whom? (dat.pl.)
+τίνας	whom? (acc.pl.)
+
+### indefinite pronouns
+
+τις	someone (nom.m./f.sg.)
+τι	something (nom./acc.n.sg.)
+τινός	of someone (gen.sg.)
+τινί	to someone (dat.sg.)
+τινά	someone (acc.m.sg.)
+τινές	some (nom.pl.)
+τινῶν	of some (gen.pl.)
+τίσι(ν)	to some (dat.pl.)
+τινάς	some (acc.pl.)
+
+### relative pronouns
+
+ὅς	who (nom.m.sg.)
+ἥ	who (nom.f.sg.)
+ὅ	which (nom.n.sg.)
+οὗ	of whom (gen.m./f.sg.)
+ᾧ	to whom (dat.m./f.sg.)
+ὅν	whom (acc.m.sg.)
+ἥν	whom (acc.f.sg.)
+ὅ	which (acc.n.sg.)
+οἵ	who (nom.m.pl.)
+αἵ	who (nom.f.pl.)
+ἅ	which (nom.n.pl.)
+ὧν	of whom (gen.pl.)
+οἷς	to whom (dat.m.pl.)
+αἷς	to whom (dat.f.pl.)
+οἷς	to which (dat.n.pl.)
+οὓς	whom (acc.m.pl.)
+ἅς	whom (acc.f.pl.)
+ἅ	which (acc.n.pl.)
 
 ## verbs
 
@@ -592,3 +772,15 @@ Adjective   Gen. masc. pl.  Adverb
 ψόφον οὐδένα	any noise
 ὦ	O
 ὦ κυβερνῆτα	captian, helmsman (voc)
+
+
+
+ἄνω	above
+ἀπὸ	from
+εἰς	to, into
+ἐκ	out of, from
+ἐν	in, on
+ἐπὶ	(+acc.) over
+περὶ	(+acc.) about, around, with regard to
+πρὸς	towards
+
