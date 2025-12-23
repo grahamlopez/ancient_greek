@@ -4,3 +4,5 @@
 ## nouns
 
 ἡ γῆ	the land
+ἁληθῆ
+ἐλευθερία	freedom	1b
