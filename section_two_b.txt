@@ -1,0 +1,60 @@
+Nouns
+
+Ἀθηναῖος, -ου, ὁ Athenian 2a
+ἀπορία, -ας, ἡ perplexity, distress 1a
+ἀρετή, -ῆς, ἡ courage, excellence 1a
+βάρβαρος, -ου, ὁ barbarian, Persian 2a
+γῆ, -ῆς, ἡ land, earth (implied by context with κίνδυνος etc.; optional card) 1a
+ἐλευθερία, -ας, ἡ freedom 1a
+Ἑλλάς, -άδος, ἡ Greece 3a
+Ἕλλην, -ηνος, ὁ Greek (person) 3a
+θεά, -ᾶς, ἡ goddess 1a
+κίνδυνος, -ου, ὁ danger 2a
+μῆνιν οὐλομένην accursed wrath (accusative phrase) μῆνις, -ιδος, ἡ + οὐλόμενος, -η, -ον (epic epithet)
+ναῦς, νεώς, ἡ ship 3c (irregular)
+ναυτικόν, -οῦ, τό navy, fleet 2b
+Ξέρξης, -ου, ὁ Xerxes 1d
+πατρίς, -ίδος, ἡ fatherland 3a
+Πέρσης, -ου, ὁ Persian 1d
+πλῆθος, -ους, τό superior numbers, mass 3b
+πόλις, -εως, ἡ city 3a
+στρατηγός, -οῦ, ὁ general, commander 2a
+στρατιά, -ᾶς, ἡ army 1a
+τόλμα, -ης, ἡ courage, daring 1a
+ὕβρις, -εως, ἡ aggression, outrageous arrogance 3a
+φόβος, -ου, ὁ fear 2a
+
+Adjectives and adverbs
+
+ἀγαθός, -ή, -όν good 1st/2nd declension adjective
+βάρβαρος, -ον barbarian, foreign; Persian (as adj.) 2‑termination adjective
+βέβαιος, -α, -ον secure, firm, reliable 1st/2nd declension adjective
+βραδέως slowly Adverb
+ὀλίγοι, -αι, -α few 1st/2nd declension adjective (plural)
+ὅσοι, -αι, -α how many!; as many as relative/interrogative adjective, 1st/2nd declension
+οὕτως thus, so, in this way Adverb
+πολύς, πολλή, πολύ much, great; many (pl.) irregular 1st/2nd declension adjective
+ταχέως quickly Adverb
+τέλος finally, in the end Adverbial use of τὸ τέλος
+
+Verbs
+
+ἄειδε sing! (you sg.) 2 sg pres act imperative of ἀείδω
+ἀπορέω be at a loss, be perplexed contract verb in -έω
+ἀφικνοῦνται (they) arrive pres mid, 3 pl of ἀφικνέομαι (deponent)
+δουλοῦνται (they) enslave pres mid/pass, 3 pl of δουλόω
+εἰσβαίνω embark, go on board thematic verb
+ἐλευθεροῦσι(ν) (they) set free pres act, 3 pl of ἐλευθερόω
+θύω offer sacrifice, make a sacrifice thematic verb
+μάχονται (they) fight pres mid, 3 pl of μάχομαι (deponent)
+νικάω win, defeat contract verb in -άω
+πίπτω fall, die (in battle) thematic verb; aorist stem πεσ‑
+πολλὰ εὔχονται they make many prayers εὔχομαι (deponent) with adverbial accusative πολλὰ
+προσέρχεται (it) advances pres mid, 3 sg of προσέρχομαι
+προσέρχονται (they) advance pres mid, 3 pl of προσέρχομαι
+φοβοῦνται they fear, are afraid pres mid, 3 pl of φοβέομαι (deponent)
+
+Prepositions
+
+διὰ (+ acc.) on account of, because of Preposition with accusative
+ὑπὲρ (+ gen.) for, on behalf of Preposition with genitive
