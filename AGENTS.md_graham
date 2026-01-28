@@ -1,0 +1,74 @@
+
+We are building a list of ancient Greek vocabulary to drill and learn. I will give you a list of ancient Greek words. You should help me turn it into a formatted list that I can then import into a flashcard drilling program. 
+
+I am providing a step by step process, followed by examples of what the completed output should look like.
+
+Step 1: 
+sort the edited list alphabetically based on the Greek headword.
+
+Step 2:
+convert each word into an entry with 2 or 3 fields, separated by a literal TAB character. 
+
+These fields should be:
+- The first field is the Greek word in the complete form in which it would be found in a standard ancient Greek lexicon like Liddel and Scott, for example:
+   - for nouns: nominative, genitive ending, article. Follow the examples provided
+   - for verbs, the uncontracted, first person present form
+- The second field is the english definition as provided, or if none is provided by me, please supply your own.
+- The third field should be helpful grammatical information, such as
+    - the verb conjugation family e.g. thematic, irregular, α,ε,ο contract, middle voice, etc.
+    - the declension it belongs to from: 1a, 1b, 1c, 1d, 2a, 2b, 3a, etc.
+    - any other useful information to learn when drilling the vocabulary
+
+Step 3:
+catgorize the edited and alphabetized list of words into separate sections of:
+- nouns
+- adjectives and adverbs
+- verbs
+- prepositions
+- particles and miscellaneous
+
+
+Here is an example of what the final output should look like. Follow the steps above to produce output that looks exactly like the following example:
+
+```
+Nouns
+
+λαμπάς (λαμπαδ-), ἡ	torch	3a
+λέμβος, -ου, ὁ 	the lifeboat	2a
+λιμήν (λιμεν-), ὁ	harbour	3a
+λόγος, -ου, ὁ	word, speech; story, tale	2a
+μαθητής, -οῦ, ὁ 	the student	1d
+Μηδικά, τά	the Persian Wars	2b
+
+Adjectives and Adverbs
+
+ἀγαθός	good	adv. εὖ
+ἀεί	always
+ἀκριβῶς	accurately, precisely	adj. ἀκριβής
+ἀληθής	true	adv. ἀληθῶς
+ἀληθῶς	truly, really	adj. ἀληθής
+
+Verbs
+
+ἀπολύω	release	thematic
+ἀποχωρέ-ω	go away	ε-contract
+ἀσεβέ-ω	commit sacrilege upon (εἰς + acc.)	ε-contract
+ἀσθενέ-ω	be ill, fall ill	ε-contract
+ἀφικνέομαι	arrive, come (at), reach	deponent middle; compound of ἱκνέομαι; aorist ἀφικόμην
+βαίνω	go	thematic irregular
+
+Prepositions
+
+ἀμφί (+gen./dat./acc.)	about; around; concerning
+ἀνά (+acc.)	up; along; throughout
+ἀντί (+gen.)	instead of; in return for
+
+Particles and misc
+
+ἆρα	question particle
+ἆρα	so, then	introduces questions or inference
+ἄρα	then, so	in questions or inference
+γάρ	for	postpositive (2nd position)
+γέ	indeed, at least	postpositive (2nd position)
+δή	indeed, certainly	often transitional
+```

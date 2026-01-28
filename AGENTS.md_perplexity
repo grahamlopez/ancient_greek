@@ -1,0 +1,90 @@
+***
+
+## Scope and source of the list
+
+- The only source of vocabulary items is the actual text of the PDF page(s) I upload for that section.  
+- Every distinct Greek item on the page that functions as a separate lexical unit (verb, noun, adjective, adverb, particle, conjunction, pronoun, proper name, interjection/oath) must appear somewhere in the final output.  
+- Case forms and phrases (e.g. τῇ νήσῳ, τι δεινόν, τὸν λιμένα, νὴ τὸν Δία) are used to reconstruct dictionary headwords, but the final entry should be the lexicon form, not the inflected form.  
+- If the PDF has a separate block “Vocabulary to be learnt”, treat it only as a *duplicate* or reminder of the same words, not as a separate source of new lemmas. If a word appears there but nowhere else, still include it; if it clearly duplicates a word already in the main block, do not add a second entry.
+
+***
+
+## No “creative” supplementation
+
+- Do **not** introduce additional words that are not printed in the PDF, even if they are “expected” for this textbook (for example: do not replace πυρά with σήματα, or ἐρωτάω with ἔρομαι, unless those exact forms appear in the PDF).  
+- Do **not** swap one synonym/variant for another: keep exactly the lemma supported by the given forms (e.g. εὐθύς, not αὐτίκα, if εὐθύς is what appears).  
+- Do **not** normalize to alternative stems or forms that are plausible but not actually in the input (e.g. do not add a fem./masc. form or an extra principal part unless the PDF gives it).
+
+***
+
+## How to reconstruct headwords
+
+When the PDF gives inflected forms, reconstruct standard dictionary entries as follows (mirroring Reading Greek / LSJ style):
+
+- Nouns:  
+  - Give nominative singular, genitive ending, and article, e.g.:  
+    - κίνδυνος, -ου, ὁ  
+    - λιμήν (λιμεν-), ὁ  
+    - πόλις (πόλε-), ἡ  
+  - If only a plural form is printed (e.g. αἱ πολέμιαι νῆες), reconstruct the singular lemma for the adjective (πολέμιος, -α, -ον) and the noun (ναῦς, ἡ) if that noun is clearly part of the vocabulary target.  
+- Adjectives:  
+  - Give masc.–fem.–neut. endings if recoverable (e.g. δεινός, -ή, -όν; πολέμιος, -α, -ον).  
+- Verbs:  
+  - Give the present, first person singular active/middle as appropriate, uncontracted where standard (e.g. ἐρωτά-ω for forms with ἐρωτάω; χωρέ-ω for χωρέω).  
+  - If only an imperative or other form is given (e.g. ἄγε, ἰδού, φής), supply the standard lexical verb (ἄγω, ὁράω, φημί) and note the relationship in the grammatical info.  
+- Adverbs, particles, conjunctions, pronouns, prepositions, interjections/oaths:  
+  - Give exactly the form as printed (δή, διότι, πόθεν, νὴ τὸν Δία, ἡμᾶς, ὑμᾶς, etc.).  
+  - Do not try to “back‑form” them to something else.
+
+If there is **any doubt** about how to reconstruct the lexicon form, prefer a conservative reconstruction clearly supported by the printed forms rather than a more speculative or “textbook‑typical” one.
+
+***
+
+## Categories and sorting
+
+1. **Sort alphabetically by Greek headword within each category** (using the reconstructed lexicon form, not the raw printed fragment).  
+2. **Use exactly these sections and order:**
+
+   - Nouns  
+   - Adjectives and Adverbs  
+   - Verbs  
+   - Prepositions  
+   - Particles and Miscellaneous  
+
+3. **Categorization rules:**
+   - Nouns: all simple nouns and proper nouns (including place names).  
+   - Adjectives and Adverbs:  
+     - Adjectives, including those frequently used substantively (e.g. πολέμιος).  
+     - Adverbs and interrogative adverbs (εὖ, εὐθύς, πόθεν, etc.).  
+   - Verbs: all verb lemmas, including those whose only printed form is an imperative or finite form (ἄγε, φής, ἰδού → list as ἄγω, φημί, ὁράω).  
+   - Prepositions: only if the word functions *primarily* as a preposition in the given list.  
+   - Particles and Miscellaneous: particles, conjunctions, interjections, oath formulas, personal pronouns, and any other items that don’t fit the above neatly.
+
+***
+
+## Entry format (per line)
+
+- Each entry must have 2 or 3 fields, separated by a **literal TAB**:  
+
+  - Field 1: Greek headword in lexicon form (with stem or genitive ending and article for nouns, as in the examples you provided).  
+  - Field 2: English gloss/definition (brief, textbook‑style).  
+  - Field 3: Grammatical information, such as:
+    - Nouns: declension type (1a, 1b, 2a, 2b, 3a, etc.), “proper noun” if applicable.  
+    - Verbs: conjugation family (thematic, α/ε/ο‑contract, deponent, irregular), plus any useful note (e.g. “ἄγε is imperative”, “φής is 2nd sg.”).  
+    - Adjectives/Adverbs: label (adj., adv., interrogative adv.), any connection between adj./adv. forms.  
+    - Particles/Misc.: label (particle, conjunction, pronoun, oath, etc.).
+
+- No extra commentary or explanation outside these fields; keep it import‑ready.
+
+***
+
+## Error‑prevention rules (explicit)
+
+To avoid the specific errors we saw:
+
+- Do **not** add any lemma unless you can point to an exact Greek form in the current PDF that supports it.  
+- Do **not** replace or “upgrade” printed words with different ones from memory or from other sections, even if more familiar.  
+- When in doubt between:
+  - “Omit the word” vs. “Include a slightly imperfect but clearly supported lemma”,  
+  always choose to **include** a supported lemma rather than silently omit the item.  
+- Try to ensure that each distinct Greek word or phrase in the vocab block can be checked off against exactly one entry in the final list.

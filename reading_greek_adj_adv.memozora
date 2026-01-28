@@ -1,68 +1,74 @@
+ἀγαθός	good	adv. εὖ
+ἀεί	always
+ἀκόσμως	in disorder, without order	Adverb (from ἄκοσμος)
+ἀκριβῶς	accurately, precisely	adj. ἀκριβής
+ἀληθής	true	adv. ἀληθῶς
+ἀληθῶς	truly, really	adj. ἀληθής
+ἀλλήλους	one another, each other	reciprocal pronoun; masc. acc. pl. (here tagged 2a)
+ἄλλος ἄλλη ἄλλο	other, another; the rest	first/second declension adjective
+ἅμα	at the same time
+ἀτάκτως	out of rank, in disorder	Adverb (from ἄτακτος)
 αὖθις	again
 βάρβαρος, -ον	barbarian, foreign; Persian (as adj.)	2‑termination adjective
-βεβαίως	assuredly	adj. βεβαῖος
 βεβαῖος	assured, firm	adv. βεβαίως
+βεβαίως	assuredly	adj. βεβαῖος
 βραδέως	slowly
 γυναικεῖος, -α, -ον	female, of a woman (in φάσμα τι γυναικεῖον)	1st/2nd declension adjective
 δεινός, -ή, -όν	terrible, dreadful; dire, formidable, clever, skillful	first/second declension adjective
 δεῦρο	here, over here
+ἐγγύς	near, nearby	adj. ἐγγύς or ἐγγύτατος
+ἐγγύς	near, nearby (+ gen.)	adverb/preposition (governs genitive)
+εἶτα	then	adv.
+ἐκεῖ	there
+ἐκεῖσε	there, over there	adverb
+ἐλεύθερος, -α, -ον	free	1st/2nd declension adjective
+ἔμπειρος	experienced, skilled	adv. ἐμπείρως
+ἐμπείρως	skillfully	adj. ἔμπειρος
+ἐξαίφνης	suddenly
+ἔξω	outside	adv.
+ἔπειτα	then, next
+ἔτι	still, yet	adverb
 εὖ	well, rightly	adverb
+εὐθύς	immediately	adv.
+ἡδέως	gladly, with pleasure
+ἤδη	now, already
 θοός	swift	adv. θοῶς
 θοῶς	swiftly	adj. θοός
-κάλλιστος	very, most beautiful
+ἴσως	perhaps	Adverb
 κακός	bad	adv. κακῶς
 κακῶς	badly	adj. κακός
+κάλλιστος	very, most beautiful
 καλός	beautiful, good, fine	adv. καλῶς
 καλῶς	beautifully, well	adj. καλός
-κοιλῶς	hollowly	adj. κοῖλος
 κοῖλος	hollow	adv. κοιλῶς
+κοιλῶς	hollowly	adj. κοῖλος
 μάλα	very	Adverb
 μέγας μεγάλη μέγα	great, big	irregular adjective (stem μεγαλ-)
 μέλας	black
-μωρῶς	foolishly	adj. μῶρος
 μῶρος	stupid, foolish	adv. μωρῶς
+μωρῶς	foolishly	adj. μῶρος
 ναυτικός ναυτική ναυτικόν	naval, of ships	first/second declension adjective
 νύκτωρ	by night, at night (νύκτωρ ~ νύξ, νυκτός)	Adverb
 νῦν	now
 οἴκαδε	homewards	adverb of direction
 οἴκοι	at home	adverb of place
+ὀλίγοι, -αι, -α	few	1st/2nd declension adjective (plural)
+ὅμοιος, -α, -ον	like, similar (implied by ὅμοιον “like”)	1st/2nd declension adjective
+ὅσοι, -αι, -α	how many!; as many as relative/interrogative adjective	1st/2nd declension
+οὐδαμοῦ	nowhere	adv.
 οὐκέτι	no longer	Adverb
 οὕτως	thus, so, in this way, as follows Adverb
 πάλιν	again	Adverb
 πολεμικός	warlike, of war
+πολέμιος, -α, -ον	enemy; hostile	adj.
 πολλάκις	often	Adverb
 πολύς πολλή πολύ	much, many	first/second declension adjective
+ῥητορικός, -ή, -όν	rhetorical
 σαφῶς	clearly	adj. σαφής
 στρατηγικός	of a general
-σῴως	safely	adj. σῶος
 σῶος	safe, unharmed	adv. σῴως
-τέλος	finally
+σῴως	safely	adj. σῶος
 ταχέως	quickly	Adverb
+τέλος	finally
 τότε	then	adverb
-ἀγαθός	good	adv. εὖ
-ἀεί	always
-ἀκριβῶς	accurately, precisely	adj. ἀκριβής
-ἀκόσμως	in disorder, without order	Adverb (from ἄκοσμος)
-ἀληθής	true	adv. ἀληθῶς
-ἀληθῶς	truly, really	adj. ἀληθής
-ἀλλήλους	one another, each other	reciprocal pronoun; masc. acc. pl. (here tagged 2a)
-ἀτάκτως	out of rank, in disorder	Adverb (from ἄτακτος)
-ἄλλος ἄλλη ἄλλο	other, another; the rest	first/second declension adjective
-ἅμα	at the same time
-ἐγγύς	near, nearby	adj. ἐγγύς or ἐγγύτατος
-ἐγγύς	near, nearby (+ gen.)	adverb/preposition (governs genitive)
-ἐκεῖ	there
-ἐλεύθερος, -α, -ον	free	1st/2nd declension adjective
-ἐμπείρως	skillfully	adj. ἔμπειρος
-ἐξαίφνης	suddenly
-ἔμπειρος	experienced, skilled	adv. ἐμπείρως
-ἔπειτα	then, next
-ἔτι	still, yet	adverb
-ἡδέως	gladly, with pleasure
-ἤδη	now, already
-ἴσως	perhaps	Adverb
-ὀλίγοι, -αι, -α	few	1st/2nd declension adjective (plural)
-ὅμοιος, -α, -ον	like, similar (implied by ὅμοιον “like”)	1st/2nd declension adjective
-ὅσοι, -αι, -α	how many!; as many as relative/interrogative adjective	1st/2nd declension
 ὥσπερ	like, just as
-ῥητορικός, -ή, -όν	rhetorical
