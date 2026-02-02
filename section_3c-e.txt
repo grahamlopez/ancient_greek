@@ -1,48 +1,4 @@
 
-Nouns
-
-Ἀχαιός, -οῦ, ὁ	Achaian	2a
-γεωργός, -οῦ, ὁ	farmer	2a
-μύρμηξ (μυρμηκ-), ὁ	ant	3a
-πλήθος (πληθεσ-), τό	number	3b
-Περικλῆς (Περικλε-), ὁ	Pericles	proper noun
-πόλεμος, -ου, ὁ	war	2a
-ἀδύνατον (ἀδυνάτ-ου), τό	impossibility	2b
-δεσπότης, -ου, ὁ	master	1d
-θέα, -ας, ἡ	sight	1b
-κόραξ, (κόρακ-), ὁ	crow, raven	3a
-Κυδαθηναῖος, -ου, ὁ	member of Kydathenaian deme	2a
-Ποσειδῶν (Ποσειδων-), ὁ	Poseidon (sea god)	proper noun
-
-Adjectives and Adverbs
-
-θαλάττιος, -α, -ον	sea, maritime
-οὐδείς, οὐδεμία, οὐδέν	no, not any	adjective/pronoun
-ῥᾳδίως	easily	adverb
-χαλεπῶς	with difficulty	adverb
-ἀδύνατος, -ον	impossible
-ἥσυχος, -ον	quiet, quietly	adjective/adverb
-μάλιστα	most of all, especially	adverb
-ταχύ	quickly	adverb
-πολλάκις	often	adverb
-πάλιν	back, again	adverb
-
-Verbs
-
-ἀποκτείνω	kill	thematic
-ἀποκρίνομαι	answer	deponent
-κρατέω	hold sway, rule	ε‑contract
-κολύω	prevent, stop	thematic
-μελετάω	practise	α‑contract
-μνημονεύω	remember	thematic
-συνέρχομαι	assemble, come together, swarm	deponent
-βάλλω	throw; put, send (here: ‘go to hell!’)	thematic
-κόπτω	knock	thematic
-ἀποπλέω	sail off	thematic
-κατακελεύω	give the time (to rowers)	thematic
-
-Prepositions
-
 Particles and Miscellaneous
 
 ἀλλά	but	conjunction
