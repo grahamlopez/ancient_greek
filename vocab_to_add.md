@@ -1,101 +1,97 @@
 
-# Words to add to vocab lists
+=== Pronouns ===
+αὐτός, -ή, -ό	him	pronoun
+μέ	(= ἐμέ) me (acc.)	pronoun (enclitic form)
+μηδείς, μηδεμία, μηδέν	no one, no	pronoun
+μοι	to me (dat.)	pronoun
+μου	of me, my	pronoun (gen. sg.)
+νεκρόν τινα	a corpse	pronoun
+πολὺ πλῆθος	a great number	pronoun
+σέ	you (acc. sg., emphatic)	pronoun
+σε	you (s.)	pronoun (acc. sg.)
+σοί	to you (s.)	pronoun (dat. sg.)
+σου	of you (s.), your	pronoun (gen. sg.)
+σύ	you (s.)	pronoun (nom. sg.)
+τίνα	whom? (acc.)	interrogative pronoun
+τίς, τί;	what?	pronoun
+ταύτην (ταύτ-ην)	this (acc.)	demonstrative pronoun
+τις, τι	some	pronoun
+τοσοῦτον πλῆθος	so great a number	pronoun
+τούτο, τούτου	this (acc./nom. n.)	pronoun
+τούτους, τούτων	these (acc. m. pl.)	pronoun
+ἐγώ	to me	pronoun
+ἐκείνος, -η, -ον	that man, the former (nom.)	demonstrative pronoun
+ἐκείνων	those (gen. pl.)	pronoun (demonstrative)
+ἐκείνῳ	he, that man (dat.)	pronoun (demonstrative)
+ἐκείνῳ τῷ ἱερῷ	that sanctuary	pronoun
+ἐμέ	me (acc.)	pronoun
+ὅσον πλῆθος	what a lot!	pronoun
+ὑμῶν	of you (pl.)	pronoun (gen. pl.)
 
-ἡ γῆ
-ἐλευθερία
-ἀφικνέομαι
-κίνδῡνος
-ἰδού
-χωρέω
-δεινός
-οἰκίᾱ
-φαίνομαι
-ἀνήρ (ἀνδρ-), ὁ man (3a)
-γείτων (γειτον-), ὁ neighbour (3a)
-λαμπάς (λαμπαδ-), ἡ torch (3a)
-λιμήν (λιμεν-), ὁ harbour (3a)
-νύξ (νυκτ-), ἡ night (3a)
-παῖς (παιδ-), ὁ child, slave (3a)
-πατρίς (πατριδ-), ἡ fatherland (3a)
-σωτήρ (σωτηρ-), ὁ saviour (3a)
-ἄλλος
-εἰπέ
-λαμβάνω
-λόγος
-μανθάνω
-τέχνη
-ἔτι
-καλέω
-τρέχω 
-εὔχομαι
-κελεύω
-ἄγε come!
-ἀλλήλους each other, one another (2a)
-ἄλλος η ο other, the rest of
-ἀνήρ (ἀνδρ-), ὁ man (3a)
-ἀφικνέομαι (ἀφῑκ-) arrive, come
-βοάω shout (for)
-γείτων (γειτον-), ὁ neighbour (3a)
-δεινός ή όν terrible, dire, clever
-δή then, indeed 
-ἐγγύς (+gen.) near, nearby
-ἐγώ I
-εἰπέ speak! tell me!
-ἐκεῖνος ἐκείνη ἐκεῖνο that
-ἐμβαίνω (ἐμβα-) embark
-ἐπειδή when, since, because
-ἐρωτάω (ἐρ-) ask
-ἔτι still, yet
-εὖ well
-εὐχή, ἡ prayer (1a) 
-εὔχομαι pray 
-Ζεύς (Δι-), ὁ Zeus
-ζητέω look for, seek
-ἡμεῖς we
-θεᾱ´ομαι watch, gaze at
-θόρυβος, ὁ noise, din, hustle and bustle (2a)
-θύρᾱ, ἡ door (1b)
-θυσίᾱ, ἡ  a sacrifi ce (1b)
-θύω sacrifi ce
-ἰδού look! here! hey!
-καθεύδω sleep
-καλέω call, summon
-κατά (+acc.) in, on, by, according to
-κελευστής, ὁ boatswain (1d)
-κελεύω order
-κίνδῡνος, ὁ danger (2a)
-Λακεδαιμόνιος, ὁ Spartan (2a)
-λαμβάνω (λαβ-) take, capture
-λαμπάς (λαμπαδ-), ἡ torch (3a)
-λιμήν (λιμεν-), ὁ harbour (3a)
-λόγος, ὁ word, speech; story, tale (2a)
-μανθάνω (μαθ-) learn, understand
-μέγας μεγάλη μέγα (μεγαλ-) big, great
-ναυτικός ή όν naval
-νῆσος, ἡ island (2a)
-νύξ (νυκτ-), ἡ night (3a)
-οἰκίᾱ, ἡ house (1b)
-οἴκαδε homewards
-οἴκοι at home
-ὅπλα, τά weapons, arms (2b)
-oὐδέ and not, not even
-οὗτος αὕτη τοῦτο this
-οὑτοσί αὑτηί τουτί this here
-παῖς (παιδ-), ὁ child, slave (3a)
+=== Prepositions ===
+περὶ νόμων καὶ ὕβρεως	about laws and aggression	preposition
+πρὸς Διός	under Zeus’ protection	preposition
+πρὸς θεῶν	in the name of the gods!	preposition
+πρὸς τῶν θεῶν	in the name of the gods	preposition
+ἐπὶ νεκροῖς	on top of corpses	preposition
+ἐπὶ τοῦ βωμοῦ	on the altar	preposition
+ὑπὲρ τῆς σωτηρίας	for our safety	prepositional phrase
+ὑπὸ τῶν Ἀθηναίων	at the hands of the Athenians	preposition
+περὶ τούτου τοῦ κινδύνου	about this danger	phrase (περί + gen.)
 
-πατρίς (πατριδ-), ἡ fatherland (3a)
-πόθεν; from where?
-πολύς πολλή πολύ (πολλ-) many, much
-πορεύομαι march, journey, go
-πυρά, τά fi re-signal (2b)
-σπένδω pour a libation
-σπεύδω hurry
-σπονδή, ἡ a libation (1a)
-σύ you (s.)
-σωτήρ (σωτηρ-), ὁ saviour (3a)
-τέχνη, ἡ skill, art, expertise (1a)
-τρέχω (δραμ-) run
-τριήραρχος, ὁ trierarch (2a)
-ῡ̔μεῖς you (pl.)
-φαίνομαι (φαν-) appear, seem
-χωρέω go, come
+=== Other ===
+δέ	but, and	conjunction
+δέσποτα	O master	voc. of δεσπότης
+δή γε	then, indeed (emphatic)	particle phrase
+εὖγε (from εὖ + γε)	well done!	expression (adv. + particle)
+καίπερ	despite -ing, although	conjunction
+καὶ μήν	look!	particle
+κόλασις, (κολασι-), ἡ	punishment	3e
+μά	by . . ! (usually, ‘no, by . . !’) (+acc.)	particle
+μήν	indeed	particle
+μήτε … μήτε	neither … nor	conjunction
+μηδέ	nor, and not even	conjunction
+μὴ	(not)	particle
+νέμεσις, (νεμεσι-), ἡ	nemesis, retribution	3e
+νή	by . . ! (+ acc.)	particle
+ναὶ τὼ σιώ	by the two gods (Castor and Pollux) (a typical Spartan oath)	interjection
+νυν	now then	particle
+νὴ Δίᾱ	by Zeus	oath
+οἱ ἕνδεκα	the Eleven (a body of eleven magistrates responsible for the prisons and for summary justice)	numeral
+οἴκησις, (οἰκησι-), ἡ	dwelling	3e
+οὐκ	not	particle
+οὐχί	not at all	emphatic negative
+οὔπω	not yet	particle
+οὔτε . . . οὔτε	neither . . . nor	conjunction
+οὔτε … οὔτε	neither … nor	conjunction
+οὕτως γε	yes, he is (so)	particle phrase
+παῖ	slave!	voc. of παῖς
+πολύς, πολλή, πολύ	much (nom.)	adj.
+ποτέ	ever	particle
+πρέσβυς, -εως, ὁ	ambassadors	3f
+σκεῦος, (σκευεσ-), τό	equipment, furniture	3g
+τεῖχος, (τειχεσ-), τό	wall (of the city)	3g
+τοῖς θεοῖς	to the gods	dat. phrase
+τοῦτό το πράγμα	this business (nom.)	phrase
+τοῦτ᾽ ὁ παῖς	this slave (nom.)	phrase
+τρέχε	run!	imperative of τρέχω
+τῆς νεώς	of the ship	gen. phrase (ναῦς)
+τῇ πατρίδι	to our fatherland	dat. phrase
+φέρε	come now!, here!	imperative of φέρω
+φής	you (s.) say, mean	2nd sg. of φημί
+ἄστυ, (ἀστε-), τό	the city (of Athens)	3f
+ἐν τούτῳ	meanwhile	expression
+ἐνδον	inside	adv.
+ἐπείδή	when, since, because	conjunction
+ἤ	than	conjunction
+ἤ ... ἤ	either . . . or	conjunction
+ἦ που	surely	particle
+Ἡράκλεις	Herakles!	interjection
+ὄναρ, (ὀνειρατ-), τό	a dream	3d
+ὅμως	nevertheless	conjunction
+ὦ	what . . ! (+gen.)	interjection
+ὦ τῆς ἀνομίας	what lawlessness!	interjection
+ὦ τῆς ἀσεβείας	what irreverence!	interjection
+ὦ τῆς ὕβρεως	what aggressive behaviour!	interjection
+ὦ ἄναξ	O lord!	exclamation
+ὦ ἄνδρες	O men!	exclamation
