@@ -1,0 +1,225 @@
+
+=== Nouns ===
+παιδίον, -ου, τό	young slave, slave dear	2b
+ἐμβάς, (ἐμβαδ-), ἡ	slipper	3a
+Θαλῆς, -οῦ, ὁ	Thales (early Greek scientist and inventor, a by-word for cleverness)	1d proper noun
+θέμις, (θεμιδ-), ἡ	right, lawful (lit. law sanctioned by the gods)	3a
+κεφαλή, -ῆς, ἡ	head	1a
+κηρός, -οῦ, ὁ	wax	2a
+νοῦς, -οῦ, ὁ	mind	2a
+πήδημα, (πηδηματ-), τό	a leap	3b
+πούς, (ποδ-), ὁ	see πούς	3a
+πούς, (ποδ-), ὁ	foot	3a
+Σωκράτης, (Σωκρατε-), ὁ	Socrates’	3g proper noun
+σοφία, -ας, ἡ	the cleverness!	1b
+ψύλλα, -ης, ἡ	of the flea	1c
+τοῦ Ὀλυμπικοῦ στεφάνου	the Olympic crown	2a
+φροντίς, (φροντιδ-), ἡ	thought	3a
+φροντιστήριον, -ου, τό	think-tank, mental institute	2b
+Χαιρεφῶν, (Χαιρεφωντ-), ὁ	Khairephon’s	3a proper noun
+χωρίον, -ου, τό	space, distance	2b
+ψύλλα, -ης, ἡ	flea	1c
+ψύλλης	flea’s	1c
+Ἀθῆναι, -ῶν, αἱ	Athens	1a proper noun
+ἀστρονομία, -ας, ἡ	astronomy	1b
+βολβός, -οῦ, ὁ	truffle	2a
+γεωμετρία, -ας, ἡ	geometry	1b
+γῆ, -ῆς, ἡ	of the earth	1a
+δῆμος, -ου, ὁ	deme	2a
+δικαστής, -οῦ, ὁ	dikast, juror	1d
+Εὔβοια, -ας, ἡ	Euboia	1b proper noun
+θηρίον, -ου, τό	beast	2b
+Λακεδαίμων, (Λακεδαιμον-), ἡ	Sparta	3a proper noun
+οὐρανός, -οῦ, ὁ	sky	2a
+περίοδος, -ου, ἡ	map	2a
+πρωκτός, -οῦ, ὁ	rump	2a
+ἐμβάς, (ἐμβαδ-), ἡ	slipper	3a
+ἥλιος, -ου, ὁ	sun	2a
+κηρός, -οῦ, ὁ	wax	2a
+κρεμάθρα, -ας, ἡ	a basket	1b
+Σωκρατίδιον, -ου, τό	dear Socrates	2b proper noun
+γῆ, -ῆς, ἡ	the earth	1a
+φροντιστήριον, -ου, τό	think-tank, mental institute	2b
+Χαιρεφῶν, (Χαιρεφωντ-), ὁ	of Khairephon	3a proper noun
+χωρίον, -ου, τό	space, distance	2b
+ψύλλα, -ης, ἡ	flea	1c
+Ἀπόλλων, (Ἀπολλων-), ὁ	Apollo (acc. ’Ἀπόλλω)	3a proper noun
+γέρων, (γεροντ-), ὁ	old man	3a
+γνώμη, -ης, ἡ	plan	1a
+ἱππική, -ῆς, ἡ	horse-fever	1a
+μήν, (μην-), ὁ	month	3a
+νύξ, (νυκτ-), ἡ	at night	3a
+πέος, (πεεσ-), τό	penis	3c
+σελήνη, -ης, ἡ	moon	1a
+Σωκρατίδιον, -ου, τό	dear Socrates	2b proper noun
+τῇ δεξιᾷ	right hand	1b
+φαρμακίς, (φαρμακιδ-), ἡ	witch, sorceress	3a
+φροντιστήριον, -ου, τό	think-tank, mental institute	2b
+χρήστης, -ου, ὁ	creditor	1d
+
+=== Verbs ===
+βοάω	I shouted	α-contract
+βοάω	(he) shouted	α-contract
+κελεύω	(I) gave the order	thematic
+κόπτω	(I) knocked at	thematic
+κόπτω	(he) knocked at	thematic
+παύομαι	he stopped	middle/deponent
+ποιέω	(you) (s.) did	ε-contract
+ἀνοίγω	open!	thematic
+ἀποκόπτω	(you s.) cut off	thematic
+δάκνω	bite, worry	thematic
+βοάω	you (s.) shouted	α-contract
+τίθημι	they placed	irregular
+ἐκβάλλω	throw out	thematic
+κελεύω	you (s.) gave the order	thematic
+λύω	they undid	thematic
+μετρέω	they measured	ε-contract
+παύομαι	I stopped	middle/deponent
+πηδάω	(it) leapt	α-contract
+ποιέω	(they) did	ε-contract
+ἥκω	I have come	thematic
+θαυμάζω	wonder (at)	thematic
+λύω	release, undo	thematic
+μετρέω	measure	ε-contract
+πηδάω	leap	α-contract
+τίθημι	I place, put	irregular
+ἀναμετρέω	measure up	ε-contract
+ἀπέρχομαι	go away!	irregular
+ἀστρονομέω	observe the stars	ε-contract
+βοάω	you (s.) shouted	α-contract
+θαυμάζω	you (s.) were amazed	thematic
+θαυμάζω	be amazed	thematic
+καθίζομαι	sit down	middle/deponent
+ὀλοφύρομαι	= 2nd pl. fut. (contr.) of ὀλοφύρ-ομαι	middle/deponent
+πείθομαι	believe	middle/deponent
+ἀεροβατέω	tread the air	ε-contract
+ἀναμετρέω	measure up	ε-contract
+ἀπέρχομαι	depart	irregular
+λέγω	(he) said	irregular
+λαμβάνω	(you (pl.) took	thematic
+λανθάνω	you (s.) escaped the notice of	thematic
+μανθάνω	(I) learnt	thematic
+ἐξευρίσκω	find out, discover	thematic
+ἐξευρίσκω	(I) found out, discovered	thematic
+ἔχω	(it) had	thematic
+τυγχάνω	(it) happened to, actually was	thematic
+ἔρχομαι	I came	irregular
+ἔρχομαι	(you) (s.) came	irregular
+ἐρωτάω	you (s.) asked	α-contract
+βιάζομαι	use force, force one’s way	middle/deponent
+δράω	do	α-contract
+γίγνομαι	(it) became	middle/deponent
+μέμφομαι	blame, find fault with	middle/deponent
+οὐδὲν λέγω	speak nonsense	irregular
+περιφρονέω	surround with thought, circumcontemplate	ε-contract
+πηδάω	leap	α-contract
+δάκνω	(it) bit	thematic
+τίθημι	you (pl.) put	irregular
+ὁράω	(I) saw	irregular
+ὁράω	(you) (s.) saw	irregular
+ἀνατέλλω	(it) will rise	thematic
+δανείζω	lend (money)	thematic
+δράω	do, act	α-contract
+γίγνομαι	I became	middle/deponent
+γίγνομαι	(you) (s.) became	middle/deponent
+ἐκφροντίζω	think out	thematic
+λανθάνω	I escaped notice	thematic
+πάσχω	I experienced, suffered	thematic
+ἔρχομαι	(I) came	irregular
+κατακλίνομαι	lie down! (s.)	middle/deponent
+κλέπτω	steal	thematic
+λανθάνω	I shall escape notice	thematic
+προαγορεύω	address	thematic
+σιγάω	be quiet	α-contract
+
+=== Adjectives/Adverbs ===
+Κικυννόθεν	from the deme Kikynna	adverb
+ἄγροικος, -ον	from the country	adjective
+ἀμαθής, -ές	ignorant	adjective
+ἄξιος, -α, -ον	worthy of	adjective
+ἄρτι	recently, just now	adverb
+εἶτα	then	adverb
+θερμός, -ή, -όν	hot	adjective
+μόνος, -η, -ον	alone	adjective
+πάλιν	again	adverb
+πρῶτον	first	adverb
+ῥᾳδίως	easily	adverb
+ψυχρός, -ά, -όν	cold	adjective
+ἀδύνατος, -ον	impossible	adjective
+ἐγγύς ἡμῶν	near to us	adverb
+ἐνταῦθα	here	adverb
+ὅπου	where	adverb
+πάνυ	very	adverb
+πόρρω	far	adverb
+χρήσιμος, -η, -ον	useful	adjective
+ἀμαθής, -ές	ignorant	adjective
+εἶτα	then, next	adverb
+ἐφήμερος, -ον	lasting a day, creature of a day	adjective
+θερμός, -ή, -όν	hot	adjective
+Κικυννόθεν	from the deme Kikynna	adverb
+μετέωρος, -ον	in the air/sky	adjective
+οὐδέποτε	never	adverb
+Περσικός, -ή, -όν	Persian	adjective
+πρῶτον	first	adverb
+σός, σή, σόν	your	adjective
+ψυχρός, -ά, -όν	cold	adjective
+ἀμαθής, -ές	ignorant	adjective
+ἀμαθής, -ές	ignorant	adjective
+ἕτερος, -α, -ον	one (of 2)	adjective
+ἥττων, ἧττον	weaker, lesser	adjective
+ἱππομανής, -ές	horse-mad	adjective
+κρείττων, κρεῖττον	stronger, greater	adjective
+ὅπως	how?	adverb
+πάνυ	at all	adverb
+σός, σή, σόν	your	adjective
+τήμερον	today	adverb
+ὑπόχρεως, -ων	in debt	adjective
+χρήσιμος, -η, -ον	useful	adjective
+
+=== Pronouns ===
+μοι	to me	pronoun
+ὁπόσους τοὺς ἑαυτῆς πόδας	how many of its own foot lengths	pronoun
+σοι	to you	pronoun
+τί δέ;	what next?	pronoun
+τί δῆτα	why then? ...	pronoun
+αὐτός, -ή, -ό	Himself, the Master	pronoun
+μοι	to me	pronoun
+ταύτῃ	with this	pronoun
+μοι	me	pronoun
+ὁπόσους τοὺς ἑαυτῆς πόδας	how many of its own foot lengths	pronoun
+τίς, τί	why?	pronoun
+ἐμαυτόν	myself (acc)	pronoun
+ὅτι	what?	pronoun
+πότερος, -α, -ον	which (of two)?	pronoun
+σεαυτοῦ	your own	pronoun
+
+=== Prepositions ===
+ἐπὶ τῆς κρεμάθρας	in the basket	preposition
+κατὰ γῆς	below the earth	preposition
+ἐπὶ κρεμάθρας	in a basket	preposition
+ἐπὶ ταύτης τῆς κρεμάθρας	in this basket	preposition
+κατὰ τί;	for what?	preposition
+ἐπὶ τῆς κλίνης	on the couch	preposition
+
+=== Other ===
+ἀμαθής, (ἀμαθε-), ὁ	ignoramus	3g
+βάλλ’ εἰς κόρακας	go to hell!	interjection
+εἰς κόρακας	to hell!	interjection
+ἐπεί	when	conjunction
+ἦ	truly	particle
+καίπερ	despite, although (+part.)	conjunction
+οὗτος	hey, you!	interjection
+ποτε	ever	particle
+ὀφρύς, (ὀφρυ-), ἡ	the eyebrow	3e
+ὡς	as	conjunction
+ἄρα	then, in that case	particle
+ἐπεί	since	conjunction
+Ἡράκλεις	Herakles!	interjection
+παπαῖ	good heavens!	interjection
+ὡς	that	conjunction
+δῆτα	then; indeed	particle
+εἰ	if	conjunction
+εἰ ἄρα	whether, indeed	conjunction
+κόρις, (κορι-), ὁ	bug	3e
+μή	not	particle
+οὗτος	hey, you!	interjection

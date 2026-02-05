@@ -46,31 +46,22 @@
 εὖγε (from εὖ + γε)	well done!	expression (adv. + particle)
 καίπερ	despite -ing, although	conjunction
 καὶ μήν	look!	particle
-κόλασις, (κολασι-), ἡ	punishment	3e
 μά	by . . ! (usually, ‘no, by . . !’) (+acc.)	particle
 μήν	indeed	particle
 μήτε … μήτε	neither … nor	conjunction
 μηδέ	nor, and not even	conjunction
 μὴ	(not)	particle
-νέμεσις, (νεμεσι-), ἡ	nemesis, retribution	3e
 νή	by . . ! (+ acc.)	particle
 ναὶ τὼ σιώ	by the two gods (Castor and Pollux) (a typical Spartan oath)	interjection
 νυν	now then	particle
-νὴ Δίᾱ	by Zeus	oath
 οἱ ἕνδεκα	the Eleven (a body of eleven magistrates responsible for the prisons and for summary justice)	numeral
-οἴκησις, (οἰκησι-), ἡ	dwelling	3e
 οὐκ	not	particle
 οὐχί	not at all	emphatic negative
 οὔπω	not yet	particle
 οὔτε . . . οὔτε	neither . . . nor	conjunction
 οὔτε … οὔτε	neither … nor	conjunction
 οὕτως γε	yes, he is (so)	particle phrase
-παῖ	slave!	voc. of παῖς
-πολύς, πολλή, πολύ	much (nom.)	adj.
 ποτέ	ever	particle
-πρέσβυς, -εως, ὁ	ambassadors	3f
-σκεῦος, (σκευεσ-), τό	equipment, furniture	3g
-τεῖχος, (τειχεσ-), τό	wall (of the city)	3g
 τοῖς θεοῖς	to the gods	dat. phrase
 τοῦτό το πράγμα	this business (nom.)	phrase
 τοῦτ᾽ ὁ παῖς	this slave (nom.)	phrase
@@ -79,7 +70,6 @@
 τῇ πατρίδι	to our fatherland	dat. phrase
 φέρε	come now!, here!	imperative of φέρω
 φής	you (s.) say, mean	2nd sg. of φημί
-ἄστυ, (ἀστε-), τό	the city (of Athens)	3f
 ἐν τούτῳ	meanwhile	expression
 ἐνδον	inside	adv.
 ἐπείδή	when, since, because	conjunction
@@ -87,7 +77,6 @@
 ἤ ... ἤ	either . . . or	conjunction
 ἦ που	surely	particle
 Ἡράκλεις	Herakles!	interjection
-ὄναρ, (ὀνειρατ-), τό	a dream	3d
 ὅμως	nevertheless	conjunction
 ὦ	what . . ! (+gen.)	interjection
 ὦ τῆς ἀνομίας	what lawlessness!	interjection
@@ -95,3 +84,28 @@
 ὦ τῆς ὕβρεως	what aggressive behaviour!	interjection
 ὦ ἄναξ	O lord!	exclamation
 ὦ ἄνδρες	O men!	exclamation
+ἀλλά	but	conjunction
+δή	really, indeed	particle
+διότι	since, because	conjunction
+ἐν τούτῳ	meanwhile	expression
+ἐπείδή	when, since, because	conjunction
+εὖγε (from εὖ + γε)	well done!	expression (adv. + particle)
+καί	and	conjunction
+καὶ δὴ καί	and moreover	expression
+καὶ μήν	pay attention! See!	expression
+μηδέ	nor, and not even	conjunction
+μήτε … μήτε	neither … nor	conjunction
+μήν	indeed	particle
+μὴ	(not)	particle
+οὔτε … οὔτε	neither … nor	conjunction
+οὐδέ	and not	conjunction
+οὐκ	not	particle
+οὔπω	not yet	particle
+οὐχί	not at all	emphatic negative
+γάρ	for; of course, no need to say	particle
+ναί	yes	particle
+περὶ τούτου τοῦ κινδύνου	about this danger	phrase (περί + gen.)
+δή	then, indeed	particle
+δήπου	of course, surely	particle
+δή γε	then, indeed (emphatic)	particle phrase
+ὥσπερ	in … out … in … out (as)	particle/comparative

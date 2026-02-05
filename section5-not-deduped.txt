@@ -1,0 +1,266 @@
+
+=== Nouns ===
+ἀπορία, -ας, ἡ	perplexity	1b
+βίος, -ου, ὁ	life	2a
+γάμος, -ου, ὁ	marriage	2a
+δαπάνη, -ης, ἡ	expense	1a
+δίκη, -ης, ἡ	lawsuit	1a
+ἡμέρα, -ας, ἡ	day	1b
+ἵππος, -ου, ὁ	horse	2a
+κεφαλή, -ῆς, ἡ	head	1a
+νεανίας, -ου, ὁ	young man	1d
+πατήρ, (πατρ-), ὁ	father	3a
+Στρεψιάδης, -ου, ὁ	Strepsiades	1d proper noun
+ὄνειρος, -ου, ὁ	my dreams	2a
+υἱός, -οῦ, ὁ	son	2a
+ὕπνος, -ου, ὁ	sleep	2a
+χρέος, (χρεεσ-), τό	debts	3c
+χρῆμα, (χρηματ-), τό	thing; size; length	3b
+χρῆμα, (χρηματ-), τό	money (in pl.)	3b
+χρήστης, -ου, ὁ	creditor	1d
+χρόνος, -ου, ὁ	time	2a
+γέρων, (γεροντ-), ὁ	old man	3a
+γνώμη, -ης, ἡ	plan	1a
+ἔλαιον, -ου, τό	olive-oil	2b
+λύχνος, -ου, ὁ	oil-lamp	2a
+νεανίας, -ου, ὁ	young man	1d
+οἰκέτης, -ου, ὁ	house-slave	1d
+λύχνος, -ου, ὁ	the oil-lamp	2a
+χρέος, (χρεεσ-), τό	debts	3c
+αἰτία, -ας, ἡ	responsibility	1b
+διάνοια, -ας, ἡ	plan	1b
+Διόνυσος, -ου, ὁ	Dionysos (god of nature, esp. wine)	2a proper noun
+νοῦς, -οῦ, ὁ	mind	2a
+Ποσειδῶν, (Ποσειδων-), ὁ	Poseidon	3a proper noun
+Φειδιππίδης, -ου, ὁ	Pheidippides	1d proper noun
+Φειδιππίδιον, -ου, τό	dear little Pheidippides	2b proper noun
+ἄνθραξ, (ἀνθρακ-), ὁ	charcoal	3a
+ἀντίδικος, -ου, ὁ	adversary (in court)	2a
+θύριον, -ου, τό	little door	2b
+λόγος, -ου, ὁ	argument	2a
+μαθητής, -οῦ, ὁ	student	1d
+οἰκίδιον, -ου, τό	little house	2b
+ὄνομα, (ὀνοματ-), τό	name	3b
+οὐρανός, -οῦ, ὁ	sky	2a
+σοφιστής, -οῦ, ὁ	sophist	1d
+δίκη, -ης, ἡ	their lawsuits	1a
+γέρων, (γεροντ-), ὁ	old man	3a
+λόγος, -ου, ὁ	argument	2a
+μαθητής, -οῦ, ὁ	student	1d
+σοφιστής, -οῦ, ὁ	sophist	1d
+οἰκία, -ας, ἡ	the house	1b
+Σωκράτης, (Σωκρατεσ-), ὁ	Socrates	3c proper noun
+φιλοσοφία, -ας, ἡ	philosophy	1b
+φροντιστήριον, -ου, τό	think-tank, mental institute	2b
+Χαιρεφῶν, (Χαιρεφωντ-), ὁ	Khairephon	3a proper noun
+χρήστης, -ου, ὁ	creditor	1d
+ψυχή, -ῆς, ἡ	soul	1a
+κόλασις, (κολασι-), ἡ	punishment	3e
+νέμεσις, (νεμεσι-), ἡ	nemesis, retribution	3e
+οἴκησις, (οἰκησι-), ἡ	dwelling	3e
+πρέσβυς, -εως, ὁ	ambassadors	3f
+σκεῦος, (σκευεσ-), τό	equipment, furniture	3g
+τεῖχος, (τειχεσ-), τό	wall (of the city)	3g
+ἄστυ, (ἀστε-), τό	the city (of Athens)	3f
+ὄναρ, (ὀνειρατ-), τό	a dream	3d
+
+=== Verbs ===
+δάκνω	bite, worry	thematic
+διαφθείρω	ruin	thematic
+διαλέγομαι	she used to converse	middle/deponent
+διαφθείρω	(it) was ruining	thematic
+λαμβάνω	exact one’s due (in phrase δίκην λαμβάνω)	thematic
+λαμβάνω	they kept trying to exact their due (in phrase δίκην ἐλάμβανον)	thematic
+διώκω	(they) kept on pursuing	thematic
+εἰσφέρω	(she) started to bring in/cause	irregular
+καθεύδω	I was sleeping	thematic
+λαμβάνω	(she/he) used to take, kept taking	thematic
+λοιδορέομαι	we kept arguing	middle/deponent ε-contract
+μανθάνω	(he) used to learn	thematic
+παύομαι	(we) used to stop	middle/deponent
+σῴζω	(he) was saving	thematic
+φεύγω	(I) was running away from	thematic
+ἀκούω	(he) used to hear	thematic
+εἰμί	I was (imperfect 1s)	irregular
+εἰμί	(she/it) was (imperfect 3s)	irregular
+λοιδορέομαι	argue	middle/deponent ε-contract
+ὀνειροπολέω	dream (of)	ε-contract
+ὀφείλω	owe	thematic
+ὀνειροπολέω	he used to dream of	ε-contract
+κολάζω	(they) used to punish	thematic
+ἔνειμι	be in	irregular
+πείθομαι	they would obey	middle/deponent
+φοβέομαι	they were afraid of	middle/deponent ε-contract
+εἰμί	(we) were (imperfect 1p)	irregular
+εἰμί	(they) were (imperfect 3p)	irregular
+ποιέω	they would treat badly (in phrase κακὰ ἐποίουν)	ε-contract
+κλαίω	weep, be punished	thematic
+κολάζω	punish	thematic
+παύω	stop x (acc.) -ing (acc. part.)	thematic
+πείθομαι	obey	middle/deponent
+φημί	you (s.) say (2s pres.)	irregular
+ἀκούω	I shall listen (fut. mid. 1s)	thematic
+διανοέομαι	intend, have in mind	middle/deponent ε-contract
+ἀκούω	imperfect of ἀκούω	thematic
+ἀκούω	imperfect of ἀκούω	thematic
+κελεύω	I shall order (fut. act. 1s)	thematic
+κελεύω	you (s.) will order (fut. act. 2s)	thematic
+λέγω	I shall tell (fut. act. 1s)	thematic
+παύομαι	I shall stop/cease (fut. mid. 1s)	middle/deponent
+παύομαι	we shall stop, cease (fut. mid. 1p)	middle/deponent
+παύω	I shall stop (fut. act. 1s)	thematic
+παύω	(it) will stop (fut. act. 3s)	thematic
+πείθομαι	I shall obey (fut. mid. 1s)	middle/deponent
+πείθομαι	you (s.) will obey (fut. mid. 2s)	middle/deponent
+ποιέω	I shall do (fut. act. 1s)	ε-contract
+ποιέω	you will do (fut. act. 2s)	ε-contract
+σῴζω	(it) will save (fut. act. 3s)	thematic
+φιλέω	love	ε-contract
+φιλέω	I shall love (fut. act. 1s)	ε-contract
+φιλέω	you (s.) will love (fut. act. 2s)	ε-contract
+ἀκούω	I shall listen (fut. mid. 1s)	thematic
+ἀκούω	you (s.) will listen (fut. mid. 2s)	thematic
+ἀποβλέπω	gaze at, observe closely	thematic
+γίγνομαι	I shall become (fut. mid. 1s)	middle/deponent
+δέχομαι	receive	middle/deponent
+διαφθείρω	(it) will get rid of (fut. act. 3s)	thematic
+διδάσκω	teach	thematic
+εἰσέρχομαι	enter	middle/deponent
+εἰσέρχομαι	I shall enter (fut. 1s)	middle/deponent
+εἰσέρχομαι	(you) (s.) will enter (fut. 2s)	middle/deponent
+εἰσέρχομαι	(he) will enter (fut. 3s)	middle/deponent
+εἰσέρχομαι	we will enter (fut. 1p)	middle/deponent
+ἐνοικέω	live (in)	ε-contract
+λέγω	you (s.) will say (fut. act. 2s)	thematic
+μανθάνω	I shall learn (fut. mid. 1s)	thematic
+μανθάνω	they shall learn (fut. mid. 3p)	thematic
+νικάω	they will defeat (fut. act. 3p)	α-contract
+παύομαι	(he) will stop (fut. mid. 3s)	middle/deponent
+παύομαι	we shall cease (fut. mid. 1p)	middle/deponent
+παύω	I shall stop (fut. act. 1s)	thematic
+πείθω	persuade	thematic
+πείθομαι	I shall obey (fut. mid. 1s)	middle/deponent
+πείθομαι	you (s.) will obey (fut. mid. 2s)	middle/deponent
+ποιέω	I shall do (fut. act. 1s)	ε-contract
+ποιέω	you (s.) will do (fut. act. 2s)	ε-contract
+βοάω	I shall shout (fut. mid. 1s)	α-contract
+γίγνομαι	I shall become (fut. mid. 1s)	middle/deponent
+γιγνώσκω	I shall get to know (fut. mid. 1s)	thematic
+διώκω	I shall chase (fut. act. 1s)	thematic
+εἰσέρχομαι	I shall enter (fut. 1s)	middle/deponent
+ἐκβάλλω	I shall throw out (fut. act. 1s)	thematic
+εὔχομαι	I shall offer prayers (fut. mid. 1s)	middle/deponent
+κόπτω	knock (on)	thematic
+κόπτω	I shall knock (on) (fut. act. 1s)	thematic
+λαμβάνω	(they) will get (fut. mid. 3p)	thematic
+μανθάνω	I shall learn (fut. mid. 1s)	thematic
+νικάω	(he) will win (fut. act. 3s)	α-contract
+παύομαι	(he) will stop (fut. mid. 3s)	middle/deponent
+παύομαι	we shall cease (fut. mid. 1p)	middle/deponent
+παύω	I shall stop (fut. act. 1s)	thematic
+πείθω	persuade	thematic
+πείθομαι	I shall obey (fut. mid. 1s)	middle/deponent
+πείθομαι	you (s.) will obey (fut. mid. 2s)	middle/deponent
+ποιέω	I shall do (fut. act. 1s)	ε-contract
+φεύγω	I shall run off (fut. mid. 1s)	thematic
+
+=== Adjectives/Adverbs ===
+ἀγροῖκος, -ον	sleepless	adjective
+αἴτιος, -α, -ον	responsible, to blame	adjective
+ἀστικός, -ή, -όν	from the city	adjective
+βαθύς, -εῖα, -ύ	deep	adjective
+βαθέως	deeply	adverb
+βαρύς, -εῖα, -ύ	heavy	adjective
+ἡδύς, -εῖα, -ύ	sweet	adjective
+ἱππομανής, -ές	horse-mad	adjective
+δυστυχής, -ές	the unlucky one	adjective
+ὅλος, -η, -ον	all of	adjective
+οὐδέποτε	never	adverb
+οὐδέπω	not yet	adverb
+πικρός, -ά, -όν	bitter	adjective
+σχεδόν	nearly	adverb
+τάλας, τάλαινα, τάλαν	unhappy (me)!	adjective
+τότε	then	adverb
+χθές	yesterday	adverb
+ἄιππος, -ον	light	adjective
+ἀργός, -όν	lazy	adjective
+βαθύς, -εῖα, -ύ	deep	adjective
+νέος, -α, -ον	young	adjective
+τάλας, τάλαινα, τάλαν	unhappy me!	adjective
+χρηστός, -ή, -όν	good, fine	adjective
+αὔριον	tomorrow	adverb
+ἵππιος, -α, -ον	of horses, equine	adjective
+ἴσως	perhaps	adverb
+μάτην	in vain, to no purpose	adverb
+μηδαμῶς	in no way, not at all	adverb
+νυνί	now	adverb
+οὐδέποτε	never	adverb
+πάνυ	very	adverb
+πως	somehow	adverb
+σμικρός, -ά, -όν	small	adjective
+σός, -ή, -όν	your	adjective
+ἄδικος, -ον	unjust	adjective
+ἀνυπόδητος, -ον	unshod, barefoot	adjective
+αὔριον	tomorrow	adverb
+δίκαιος, -α, -ον	just	adjective
+ἔνδον	inside	adverb
+ἵππιος, -α, -ον	of horses, horsey	adjective
+καλὸς κἀγαθός	jolly good chaps, real gentlemen	adjective
+οὐδαμῶς	no way, not at all	adverb
+πονηρός, -ά, -όν	wicked, nasty	adjective
+σοφός, -ή, -όν	wise, clever	adjective
+ἄδικος, -ον	unjust	adjective
+ἀκριβής, -ές	exact, accurate	adjective
+βραδύς, -εῖα, -ύ	slow	adjective
+ἐνδον	inside	adv.
+ἐκεῖσε	to there, thither	adv.
+νικηφόρος, -ον	victorious	adjective
+τήμερον	today	adverb
+ὠχρός, -ά, -όν	pale	adjective
+
+=== Pronouns ===
+οὑτοσί, αὑτηί, τουτί	this here (pointing)	pronoun
+ἐμαυτόν	myself	pronoun
+μοι	to me	pronoun
+σοι	to you	pronoun
+κἀγώ	and I	pronoun
+αὐτός, -ή, -ó	myself (intensive)	pronoun
+κἀγώ	and I	pronoun
+μοι	to me	pronoun
+
+=== Prepositions ===
+περί	about the child	preposition
+περί	about horses	preposition
+παρά	from the students	preposition
+
+=== Other ===
+ἄστυ, (ἀστε-), τό	the city (of Athens)	3f
+διότι	because	conjunction
+ἔξεκξ	a cry or exclamation	interjection
+ἰοῦ	alas!	interjection
+καὶ γάρ	yes, certainly	conjunction
+καὶ δὴ καί	and moreover	conjunction
+ὅτε	when	conjunction
+ὥσπερ ἔχεις	just as you are	conjunction
+ἰού	hurrah!	interjection
+καίπερ	despite, although (+ part.)	conjunction
+κόλασις, (κολασε-), ἡ	punishment	3e
+οἴμοι	alas for my troubles!	interjection
+ὅτε	when	conjunction
+οὐχί	not	particle
+αἰβοῖ	uggghh!	interjection
+γε	at least; yes, and	particle
+δύο	two	numeral
+ἢ	tut tut!	interjection
+καὶ δὴ καί	and moreover	conjunction
+μή	not	particle
+νυν	so, then	particle
+οὔκουν	not . . . therefore	conjunction
+οὔτε . . . οὔτε	neither . . . nor	conjunction
+πνιγεύς, (πνιγε-), ὁ	oven	3g
+δῆτα	then	particle
+εἰ	if (not)	conjunction
+εἰς κόρακας	to hell! (lit. ‘to the crows’)	interjection
+ὅμως	nevertheless	conjunction
+πνιγεύς, (πνιγε-), ὁ	oven	3g
+ὥς	that, =ὅτι	conjunction
