@@ -1,0 +1,323 @@
+
+=== Nouns ===
+ἀλήθεια, -ας, ἡ	truth	1b
+ἀνάγκη, -ης, ἡ	necessity	1a
+Δελφοί, -ῶν, οἱ	Delphi (site of Apollo’s oracle)	2a proper noun
+Δελφοῖς	Delphi	2a proper noun
+διαβολή, -ῆς, ἡ	a slander	1a
+δόξα, -ης, ἡ	reputation	1c
+ἑταῖρος, -ου, ὁ	friend	2a
+μαντεία, -ας, ἡ	answer, pronouncement	1b
+μάρτυς, (μαρτυρ-), ὁ	witness	3a
+Πυθία, -ας, ἡ	the Pythian priestess (who sat on a tripod and delivered Apollo’s oracle to the priest, who interpreted it)	1b proper noun
+σοφία, -ας, ἡ	wisdom	1b
+Ἀπόλλων, (Ἀπολλων-), ὁ	Apollo (acc. Ἀπόλλω)	3a proper noun
+ἀπορία, -ας, ἡ	perplexity	1b
+ἐνθουσιασμός, -οῦ, ὁ	inspiration	2a
+θέμις, (θεμιδ-), ἡ	lawful (lit. θέμις, ἡ law of the gods [3a])	3a
+κύων, (κυν-), ὁ	dog	3a
+μαντεῖον, -ου, τό	oracle	2b
+ποίημα, (ποιηματ-), τό	poem	3b
+ποιητής, -οῦ, ὁ	poet	1d
+χρησμῳδός, -οῦ, ὁ	soothsayer	2a
+χρόνος, -ου, ὁ	time	2a
+διαβολή, -ῆς, ἡ	slander	1a
+μετέωρα, -ων, τά	things in the air	2b
+πάθος, (παθεσ-), τό	experience	3c
+πρεσβύτερος, -ου, ὁ	older man	2a
+σχολή, -ῆς, ἡ	leisure	1a
+ὑβριστής, -οῦ, ὁ	bully	1d
+φιλόσοφος, -ου, ὁ	philosopher	2a
+χειροτέχνης, -ου, ὁ	craftsman	1d
+ἀρετή, -ῆς, ἡ	excellence, virtue	1a
+Διονυσόδωρος, -ου, ὁ	Dionysodoros	2a proper noun
+Λύκειον, -ου, τό	Lykeion (a training ground, where young and old met)	2b proper noun
+φιλοσοφία, -ας, ἡ	philosophy	1b
+ἀρετή, -ῆς, ἡ	excellence, virtue	1a
+Διονυσόδωρος, -ου, ὁ	Dionysodoros	2a proper noun
+ἐρώτημα, (ἐρωτηματ-), τό	question	3b
+Εὐθύδημος, -ου, ὁ	Euthydemos	2a proper noun
+Κλεινίας, -ου, ὁ	Kleinias	1d proper noun
+Κρίτων, (Κριτων-), ὁ	Kriton	3a proper noun
+νεανίσκος, -ου, ὁ	young man	2a
+φιλοσοφία, -ας, ἡ	philosophy	1b
+διδάσκαλος, -ου, ὁ	teacher	2a
+μειράκιον, -ου, τό	youth	2b
+ἀπορία, -ας, ἡ	perplexity	1b
+σφαῖρα, -ας, ἡ	ball	1b
+Ἀμαζών, (Ἀμαζον-), ἡ	Amazon	3a proper noun
+μάχη, -ης, ἡ	fight, battle	1a
+τῇ θαλάττῃ	the sea	1c
+ἄνεμος, -ου, ὁ	wind	2a
+ἱπποφόρβιον, -ου, τό	herd of horses	2b
+Σκύθης, -ου, ὁ	Scythian	1d proper noun
+τῇ μάχῃ	the battle	1a
+τῆς μάχης	the battle	1a
+φωνή, -ῆς, ἡ	language, speech	1a
+Ἀμαζών, (Ἀμαζον-), ἡ	Amazon	3a proper noun
+κτῆμα, (κτηματ-), τό	possession	3b
+μέρος, (μερεσ-), τό	share, portion	3c
+νόμος, -ου, ὁ	custom, usage	2a
+ποταμός, -οῦ, ὁ	river	2a
+Σκύθης, -ου, ὁ	Scythian	1d proper noun
+ταῖς ἁμάξαις	their waggons (Scythians were nomads)	1b
+Τάναϊς, (Ταναι-), ὁ	Tanais (the river Don)	3e proper noun
+τῇ ὑστεραίᾳ	on the next day	1b
+τῆς γῆς ταύτης	this land	1a
+τούτῳ τῷ χώρῳ	this land	2a
+ὑστεραία, -ας, ἡ	next day	1b
+φωνή, -ῆς, ἡ	language	1a
+χῶρος, -ου, ὁ	place, region	2a
+
+=== Verbs ===
+ἀνάγκη ἐστὶ	it is obligatory for x (acc.) to – (inf.)	irregular
+ἀποκρίνομαι	answer	middle/deponent
+βούλομαι	wish, want	middle/deponent
+δεῖ	it is necessary for x (acc.) to – (inf.)	irregular
+διαβάλλω	to slander	thematic
+διαβάλλω	slander	thematic
+διδάσκω	to teach	thematic
+διέβαλον	they slandered (aor. of διαβάλλω)	thematic
+οἶδα	to know (οἶδα)	irregular
+ᾖει	(he) went (impf. of ἔρχομαι/εἶμι)	irregular
+θορυβέω	make a din	ε-contract
+εἶμι	to go (ἔρχομαι/εἶμι)	irregular
+λέγω	to speak, say, tell (λέγω)	thematic
+λογίζομαι	reckon, consider	middle/deponent
+μαντεύομαι	to consult the oracle	middle/deponent
+μαντεύομαι	get from the oracle	middle/deponent
+μαρτυρέω	bear witness	ε-contract
+παίζω	to joke, to poke fun at (παίζω)	thematic
+παρέχομαι	to present (παρέχομαι)	middle/deponent
+ποιέω	to do (ποιέω)	ε-contract
+φανοῦμαι	I shall appear (fut. of φαίνομαι)	middle/deponent
+αἰσχύνομαι	be ashamed	middle/deponent
+ἀνάγκη ἐστὶ	it is obligatory for x (acc.) to – (inf.)	irregular
+ἀπῇα	I went off (impf. of ἀπέρχομαι/ἄπειμι)	irregular
+ἀποφαίνω	to reveal, to show (ἀποφαίνω)	thematic
+δεῖ	it is necessary for x (acc.) to – (inf.)	irregular
+δοκέω	seem; have a reputation for (+inf.)	ε-contract
+οἶδα	to know (οἶδα)	irregular
+εἰδότες	knowing (nom.) (οἶδα)	irregular
+εἰδώς	knowing (nom.) (οἶδα)	irregular
+εἰμί	to be (εἰμί)	irregular
+ἐλέγχω	to refute (ἐλέγχω)	thematic
+ᾖα	I went (impf. of ἔρχομαι/ εἶμι)	irregular
+λέγω	to say, to tell (λέγω)	thematic
+λογίζομαι	reckon, consider	middle/deponent
+νοέω	mean	ε-contract
+παρόντες	present (part. of πάρειμι)	irregular
+πειράομαι	try	middle/deponent α-contract
+ψεύδομαι	tell lies	middle/deponent
+ᾤμην	I thought (οἶμαι)	middle/deponent
+ἀπορέω	to be at a loss (ἀπορέω)	ε-contract
+διαφθείρω	corrupt	thematic
+δοκέω	to seem (δοκέω)	ε-contract
+δοκέω	seem; have a reputation for	ε-contract
+οἶδα	to know (οἶδα)	irregular
+εἰδότες	knowing (nom.) (οἶδα)	irregular
+εἰδότων	knowing (gen.) (οἶδα)	irregular
+εἰμί	to be (εἰμί)	irregular
+ἐξετάζω	to question closely (ἐξετάζω)	thematic
+ἐξετάζω	question closely	thematic
+ἐρωτάω	to ask (ἐρωτάω)	α-contract
+εὑρίσκω	find, discover	thematic
+ἔχω	I am able (1.13)	irregular
+ᾖα	I went, came (impf. of ἔρχομαι/εἶμι)	irregular
+ᾔδη	I knew (past of οἶδα)	irregular
+ἥδομαι	enjoy	middle/deponent
+λέγω	to say, tell (λέγω)	thematic
+νομίζω	to acknowledge (νομίζω)	thematic
+οἴομαι	think	middle/deponent
+ὀργίζομαι	get angry	middle/deponent
+πειράομαι	try	middle/deponent α-contract
+ποιέω	to make (ποιέω)	ε-contract
+ᾤμην	I thought (impf. of οἶμαι)	middle/deponent
+ἦν δ᾽ ἐγώ	I said	irregular
+ἦ δ᾽ ὅς	he said	irregular
+καταλαμβάνω	come upon	thematic
+προτρέπω	urge, impel	thematic
+ἀκούσας	upon hearing (nom. s. m.) (ἀκούω)	thematic
+ἀποκρίνομαι	answer (fut. ἀποκρινοῦμαι)	middle/deponent
+ἀποκρινάμενος	in answer, answering (ἀποκρίνομαι)	middle/deponent
+ἀπορήσας	on being at a loss (nom. s. m.) (ἀπορέω)	ε-contract
+γελάω	laugh	α-contract
+γελάσας	on laughing, with a laugh (nom. s. m.) (γελάω)	α-contract
+ἐρυθριάω	blush	α-contract
+ἔφην	(I) said (φημί)	irregular
+ἔφη	(he) said (φημί)	irregular
+ἥδομαι	enjoy	middle/deponent
+ἦ δ᾽ ὅς	he said	irregular
+ἠρυθρίασεν	see ἐρυθριάω	α-contract
+προτρέπω	urge, impel	thematic
+ἔφη	(he) said (φημί)	irregular
+ᾖσμεν	we knew (past of οἶδα)	irregular
+ᾖστε	you (pl.) knew (past of οἶδα)	irregular
+ὡμολόγει	(he) agreed (ὁμολογέω)	ε-contract
+ὁμολογέω	agree	ε-contract
+γελάσαντες	laughing, with laughs (nom. pl. m.) (γελάω)	α-contract
+ἐκδεξάμενος	receiving in turn (ἐκδέχομαι)	middle/deponent
+ἐκδέχομαι	take up, receive in turn	middle/deponent
+ἐμπίπτω	fall into	thematic
+ἐπαινέω	praise (aor. ἐπῄνεσα)	ε-contract
+ἔφη	(he) said (φημί)	irregular
+θορυβήσαντες	making a din, with a din (nom. pl. m.) (θορυβέω)	ε-contract
+ἀφικόμεναι	arriving (nom. pl. f.) (ἀφικνέομαι/ ἀφικόμην)	middle/deponent
+εἰσπεσόντες	attacking, falling upon (nom. pl. m.) (εἰσπίπτω/εἰσέπεσον)	thematic
+ἰδοῦσαι	upon seeing (nom. pl.f.) (ὁράω/εἶδον)	irregular
+λαβόντες	upon taking (nom. pl. m.) (λαμβάνω/ἔλαβον)	thematic
+περιοῦσας	surviving (part. of περίειμι)	irregular
+φυλάττω	guard	thematic
+ἀνεῖλον	they took up (aor. of ἀναιρέω)	irregular
+ἀνελόντες	on taking up (nom. pl. m.) (ἀναιρέω/ἀνεῖλον )	irregular
+ἀπελθοῦσαι	upon going away (nom. pl. f.) (ἀπέρχομαι/ ἀπῆλθον)	irregular
+ἀποβᾶσαι	upon disembarking (nom. pl. f.) (ἀποβαίνω/ ἀπέβην)	thematic
+ἀποπέμπω	send off	thematic
+ἀφίκοντο	they arrived (aor. of ἀφικνέομαι)	middle/deponent
+γνόντες	knowing, realizing (nom. pl. m.) (γιγνώσκω/ ἔγνων)	irregular
+ἔγνωσαν	they recognized (them) (aor. of γιγνώσκω)	irregular
+ἐμπεσόντες	attacking, falling upon (nom. pl. m.) (ἐμπίπτω/ἐνέπεσον)	thematic
+ἐλθόντες	upon coming (nom. pl. m.) (ἔρχομαι/ἦλθον)	irregular
+ἕπομαι	follow	middle/deponent
+ηὗρον	they came upon (aor. of εὑρίσκω)	thematic
+λαβοῦσαι	upon taking (nom. pl. f.) (λαμβάνω/ ἔλαβον)	thematic
+μαθοῦσαι	upon understanding (nom. pl. f.) (μανθάνω/ ἔμαθον)	thematic
+νομίζω	think X (acc.) to be Y (acc.)	thematic
+παιδοποιέομαι	beget children	middle/deponent ε-contract
+στρατοπεδεύομαι	make camp	middle/deponent
+ἀγαγοῦσαν	bringing (acc. s. f.) (ἄγω/ἤγαγον)	thematic
+ἄγω	lead, bring	thematic
+ἀπελθών	going away (nom. s. m.) (ἀπέρχομαι /ἀπῆλθον)	irregular
+ἀπολαγχάνω	obtain by lot	thematic
+ἀπολαχόντες	upon obtaining (nom. pl. m.) (ἀπολαγχάνω/ ἀπέλαχον)	thematic
+ἀφικομένη	upon arriving (nom. pl. m.) (ἀφικνέομαι/ ἀφικόμην)	middle/deponent
+γενόμενα, τά	what had happened, the happenings (γίγνομαι/ ἐγενόμην)	middle/deponent
+διαβάντες	crossing, once across (nom. pl. m.) (διαβαίνω/διέβην)	thematic
+διαρπάζω	lay waste	thematic
+δυνάμεθα	(we) are able	middle/deponent
+ἐδύναντο	she was able (δύναμαι)	middle/deponent
+ἐδύναντο	they were able (δύναμαι)	middle/deponent
+εἰποῦσαι	saying (nom. pl. f.) (λέγω/εἶπον)	irregular
+ἐλθόντες	on going (acc. pl. m.) (ἔρχομαι/ἦλθον)	irregular
+ἐλθών	upon coming (nom. s. m.) (ἔρχομαι/ἦλθον)	irregular
+ἐξαναστάντες	upon getting up and going off (nom. pl. m.) (ἐξανίσταμαι/ ἐξανέστην)	middle/deponent
+ἐξανιστάμεθα	we get up and go off	middle/deponent
+ἕξομεν	we shall have (fut. of ἔχω)	irregular
+ἐπανελθόντας	upon returning (acc. pl. m.) (ἐπανέρχομαι/ ἐπανῆλθον)	irregular
+ἐπανέρχομαι	return	irregular
+ἐργάζομαι	perform, do	middle/deponent
+εὑρόντες	on finding (nom. pl. m.) (εὑρίσκω/ηὗρον)	thematic
+ἱππάζομαι	ride horses	middle/deponent
+καταλαβών	on coming across (nom. s. m.) (καταλαμβάνω/ κατέλαβον)	thematic
+καταλαμβάνω	come across	thematic
+μαθόντες	on learning (nom. pl. m.) (μανθάνω/ἔμαθον)	thematic
+оἰκέω	dwell in	ε-contract
+σημαίνω	give a sign	thematic
+συνοικέω	live together	ε-contract
+τοξεύω	use bows and arrows	thematic
+φωνέω	speak, converse	ε-contract
+χράομαι	use, have sex with	middle/deponent α-contract
+
+=== Adjectives/Adverbs ===
+ἴσως	perhaps	adverb
+νέος, -α, -ον	young; ἐκ νέου from youth	adjective
+πᾶς, πᾶσα, πᾶν	everything (acc.)	adjective
+ποτέ	once	adverb
+σοφώτατος, -η, -ον	wisest (σοφός)	adjective
+σοφώτερος, -α, -ον	wiser (σοφός)	adjective
+σφοδρός, -ά, -όν	impetuous	adjective
+ἐντεῦθεν	from that point, from there	adverb
+μωρότερος, -α, -ον	more stupid	adjective
+ὅμως	nevertheless	adverb
+οὑτωσί	as follows	adverb
+πολιτικός, -ή, -όν	concerned with the city	adjective
+ποτέ	ever	adverb
+σοφώτατος, -η, -ον	wisest (σοφός)	adjective
+σοφώτερος, -α, -ον	wiser (σοφός)	adjective
+βαρεῖαι	serious (nom.)	adjective
+κατάδηλος, -ος, -ον	obvious	adjective
+μιαρώτατος, -η, -ον	most abominable (person) (μιαρός)	adjective
+πλούσιος, -α, -ον	rich	adjective
+πολλάκις	often	adverb
+σοφώτατος, -η, -ον	wisest (σοφός)	adjective
+σοφώτερος, -α, -ον	wiser (σοφός)	adjective
+τοιοῦτος, τοιαύτη, τοιοῦτο(ν)...καί	the same sort of . . . as	adjective
+ἀμφότεροι, -αι, -α	both	adjective
+χθές	yesterday	adverb
+ἀμαθεῖς	ignorant (nom.)	adjective
+ἀνδρείως	bravely	adverb
+ἐνθάδε	here	adverb
+εὐθύς	at once	adverb
+ἀμαθεῖς	ignorant (nom.)	adjective
+πω	yet	adverb
+ἀμαθεῖς	ignorant (nom.)	adjective
+ἄρτι	just now	adverb
+ἐνταῦθα	at this point	adverb
+εὐθύς	at once	adverb
+ἧπερ	just where	adverb
+πλησίον	nearby, near (+ gen.)	adverb
+γυναικεῖος, -α, -ον	woman’s	adjective
+ἐκεῖ	there	adverb
+λοιπός, -ή, -όν	other, rest of	adjective
+μόνος, -η, -ον	alone	adjective
+ὁμοῦ	together	adverb
+πάλιν	back, again	adverb
+
+=== Pronouns ===
+ἑαυτόν	himself	pronoun
+αὐτῷ	for him	pronoun
+ταυτησὶ τῆς ζητήσεως	this inquiry	pronoun
+τούτῳ	this [interval of time]	pronoun
+αἱ δέ	but they	pronoun
+αὐτήν	herself	pronoun
+αὐτῆς	of herself	pronoun
+αὐτοί	they themselves	pronoun
+αὐτός	he, himself	pronoun
+οἱ αὐτοί	the same	pronoun
+τὸ αὐτό	the same	pronoun
+
+=== Prepositions ===
+παρὰ τῷ θεῷ	in the god’s presence	preposition
+μετά	after (+acc.)	preposition
+ὑπὸ γῆς	beneath the earth	preposition
+μετ(ὰ) ἄλλων πολλῶν	with many others	preposition
+ἐναντίον ἡμῶν	in front of us	preposition
+διὰ σημείου	by means of signs	preposition
+μεθ᾽ ἡμῶν	with us	preposition
+μετὰ τῶν ὑμετέρων γυναικῶν	with your women	preposition
+μετά	after (+acc.)	preposition
+
+=== Other ===
+γάρ δή	I assure you; indeed	particle
+γάρ...που	of course (no need to ask)	particle
+ἤ	than	conjunction
+καὶ μήν	moreover	particle
+μέντοι	however	particle
+γάρ δή	I am positive; really	particle
+γοῦν	at any rate	particle
+ἐπεί	when	conjunction
+ζήτησις, (ζητησι-), ἡ	inquiry	3e
+θεόμαντις, (θεομαντε-), ὁ	prophet	3e
+καὶ γάρ	for really	conjunction
+ὅτι	what	conjunction
+οὐ γάρ δήπου...γε	it can’t be that. . .	particle
+ποίησις, (ποιησι-), ἡ	poetry	3e
+φύσις, (φυσι-), ἡ	nature	3e
+ὡς	that	conjunction
+μέντοι	however, but	particle
+μή	not	particle
+ἀλλὰ μὲν δὴ...γε	but the fact is that . . .	particle
+γάρ δήπου	of course	particle
+γε δή	certainly	particle
+εἶεν	well, all right then!	interjection
+ἕως	while	conjunction
+καὶ μήν	look here	particle
+μηδέ	and don’t	conjunction
+πάνυ γε	yes indeed	particle
+οὐκοῦν	therefore	particle
+οὔκουν	not . . . therefore	particle
+καὶ δὴ	let’s suppose	particle
+μέντοι	however, but	particle
+τρισὶ πλοίοις	three ships	numeral
+δύο	two (nom.)	numeral
+τοῖς γονεῦσι	parents	3g
